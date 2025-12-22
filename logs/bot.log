@@ -1,0 +1,468 @@
+2025-12-21 22:45:28,717 - INFO - MESSAGE - 0.0 ms
+2025-12-21 22:45:28,718 - INFO - Update id=370041701 is handled. Duration 0 ms by bot id=8274456690
+2025-12-21 22:45:35,963 - INFO - MESSAGE - 0.0 ms
+2025-12-21 22:45:35,963 - INFO - Update id=370041702 is handled. Duration 0 ms by bot id=8274456690
+2025-12-21 22:45:36,441 - INFO - MESSAGE - 0.0 ms
+2025-12-21 22:45:36,441 - INFO - Update id=370041703 is handled. Duration 0 ms by bot id=8274456690
+2025-12-21 22:45:36,856 - INFO - MESSAGE - 0.0 ms
+2025-12-21 22:45:36,857 - INFO - Update id=370041704 is handled. Duration 0 ms by bot id=8274456690
+2025-12-21 22:45:37,269 - INFO - MESSAGE - 0.0 ms
+2025-12-21 22:45:37,270 - INFO - Update id=370041705 is handled. Duration 0 ms by bot id=8274456690
+2025-12-21 22:45:37,621 - INFO - MESSAGE - 0.0 ms
+2025-12-21 22:45:37,621 - INFO - Update id=370041706 is handled. Duration 0 ms by bot id=8274456690
+2025-12-21 22:47:58,094 - INFO - Polling stopped
+2025-12-21 22:47:58,095 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-21 22:47:58,096 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
+2025-12-21 22:47:58,347 - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
+2025-12-21 22:51:58,692 - INFO - MESSAGE - 0.0 ms
+2025-12-21 22:51:58,693 - INFO - Update id=370041707 is handled. Duration 0 ms by bot id=8274456690
+2025-12-21 22:52:20,903 - INFO - Polling stopped
+2025-12-21 22:52:20,904 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-21 22:52:20,905 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
+2025-12-21 22:52:21,164 - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
+2025-12-21 22:52:26,142 - INFO - MESSAGE - 0.0 ms
+2025-12-21 22:52:26,142 - INFO - Update id=370041708 is handled. Duration 0 ms by bot id=8274456690
+2025-12-21 22:53:14,464 - INFO - Polling stopped
+2025-12-21 22:53:14,465 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-21 22:53:14,465 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
+2025-12-21 22:53:14,727 - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
+2025-12-21 22:54:40,937 - INFO - MESSAGE - 0.0 ms
+2025-12-21 22:54:40,937 - INFO - Update id=370041709 is handled. Duration 0 ms by bot id=8274456690
+2025-12-21 22:57:20,194 - INFO - Polling stopped
+2025-12-21 22:57:20,197 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-21 22:57:20,197 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
+2025-12-21 22:57:20,452 - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
+2025-12-21 22:57:25,589 - INFO - MESSAGE - 0.0 ms
+2025-12-21 22:57:25,589 - INFO - Update id=370041710 is handled. Duration 0 ms by bot id=8274456690
+2025-12-21 22:57:40,850 - INFO - Polling stopped
+2025-12-21 22:57:40,851 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-21 22:57:40,851 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
+2025-12-21 22:57:41,106 - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
+2025-12-21 22:59:23,796 - INFO - MESSAGE - 0.0 ms
+2025-12-21 22:59:23,796 - INFO - Update id=370041711 is handled. Duration 0 ms by bot id=8274456690
+2025-12-21 23:02:45,986 - INFO - Polling stopped
+2025-12-21 23:02:45,987 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-21 23:02:45,987 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
+2025-12-21 23:02:46,247 - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
+2025-12-21 23:02:51,526 - INFO - MESSAGE - 0.0 ms
+2025-12-21 23:02:51,526 - INFO - Update id=370041712 is handled. Duration 0 ms by bot id=8274456690
+2025-12-21 23:05:15,121 - INFO - Polling stopped
+2025-12-21 23:05:15,122 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-21 23:05:15,122 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
+2025-12-21 23:05:15,375 - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
+2025-12-21 23:05:33,409 - INFO - MESSAGE - 0.0 ms
+2025-12-21 23:05:33,410 - INFO - Update id=370041713 is handled. Duration 0 ms by bot id=8274456690
+2025-12-21 23:05:35,150 - INFO - MESSAGE - 0.0 ms
+2025-12-21 23:05:35,150 - INFO - Update id=370041714 is handled. Duration 15 ms by bot id=8274456690
+2025-12-21 23:05:39,665 - INFO - Polling stopped
+2025-12-21 23:05:39,666 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-21 23:05:39,666 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
+2025-12-21 23:05:39,917 - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
+2025-12-21 23:08:47,051 - INFO - MESSAGE - 0.0 ms
+2025-12-21 23:08:47,051 - INFO - Update id=370041715 is handled. Duration 0 ms by bot id=8274456690
+2025-12-21 23:17:25,800 - INFO - Polling stopped
+2025-12-21 23:17:25,802 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-21 23:17:25,802 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
+2025-12-21 23:17:26,054 - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
+2025-12-21 23:17:30,713 - INFO - MESSAGE - 0.0 ms
+2025-12-21 23:17:30,714 - INFO - Update id=370041716 is handled. Duration 0 ms by bot id=8274456690
+2025-12-21 23:21:15,698 - INFO - Polling stopped
+2025-12-21 23:21:15,699 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-21 23:21:15,699 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
+2025-12-21 23:21:15,951 - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
+2025-12-21 23:24:56,752 - INFO - MESSAGE - 0.0 ms
+2025-12-21 23:24:56,752 - INFO - Update id=370041717 is handled. Duration 0 ms by bot id=8274456690
+2025-12-21 23:24:56,754 - INFO - MESSAGE - 0.0 ms
+2025-12-21 23:24:56,754 - INFO - Update id=370041718 is handled. Duration 0 ms by bot id=8274456690
+2025-12-21 23:26:48,695 - INFO - Polling stopped
+2025-12-21 23:26:48,696 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-21 23:26:48,697 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
+2025-12-21 23:26:48,952 - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
+2025-12-21 23:26:53,818 - INFO - MESSAGE - 0.0 ms
+2025-12-21 23:26:53,818 - INFO - Update id=370041719 is handled. Duration 0 ms by bot id=8274456690
+2025-12-21 23:27:52,030 - INFO - Polling stopped
+2025-12-21 23:27:52,032 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-21 23:27:52,032 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
+2025-12-21 23:27:52,295 - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
+2025-12-22 01:34:21,442 - INFO - MESSAGE - 0.0 ms
+2025-12-22 01:34:21,442 - INFO - Update id=370041795 is handled. Duration 0 ms by bot id=8274456690
+2025-12-22 01:34:33,853 - INFO - MESSAGE - 0.0 ms
+2025-12-22 01:34:33,854 - INFO - Update id=370041796 is handled. Duration 16 ms by bot id=8274456690
+2025-12-22 01:34:43,228 - INFO - MESSAGE - 0.0 ms
+2025-12-22 01:34:43,228 - INFO - Update id=370041797 is handled. Duration 0 ms by bot id=8274456690
+2025-12-22 01:36:18,140 - INFO - Polling stopped
+2025-12-22 01:36:18,141 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-22 01:36:18,141 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
+2025-12-22 01:36:18,392 - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
+2025-12-22 02:18:28,161 - aiogram.event - INFO - Update id=370041800 is not handled. Duration 77 ms by bot id=8274456690
+2025-12-22 02:18:28,161 - aiogram.event - ERROR - Cause exception while process update id=370041800 by bot id=8274456690
+InvalidPasswordError: password authentication failed for user "postgres"
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\middlewares\logging.py", line 26, in __call__
+    response = await handler(event, data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\middlewares\auth.py", line 25, in __call__
+    user = await manager.get_or_create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\manager\user.py", line 53, in get_or_create
+    user = await self.get(user_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\manager\user.py", line 23, in get
+    result = await self.db.execute(stmt)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\ext\asyncio\session.py", line 449, in execute
+    result = await greenlet_spawn(
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 201, in greenlet_spawn
+    result = context.throw(*sys.exc_info())
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2351, in execute
+    return self._execute_internal(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2239, in _execute_internal
+    conn = self._connection_for_bind(bind)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2108, in _connection_for_bind
+    return trans._connection_for_bind(engine, execution_options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 2, in _connection_for_bind
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\orm\state_changes.py", line 137, in _go
+    ret_value = fn(self, *arg, **kw)
+                ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 1187, in _connection_for_bind
+    conn = bind.connect()
+           ^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 3277, in connect
+    return self._connection_cls(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 143, in __init__
+    self._dbapi_connection = engine.raw_connection()
+                             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 3301, in raw_connection
+    return self.pool.connect()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 447, in connect
+    return _ConnectionFairy._checkout(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 1264, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 711, in checkout
+    rec = pool._do_get()
+          ^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\impl.py", line 177, in _do_get
+    with util.safe_reraise():
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 224, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\impl.py", line 175, in _do_get
+    return self._create_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 388, in _create_connection
+    return _ConnectionRecord(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 673, in __init__
+    self.__connect()
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 899, in __connect
+    with util.safe_reraise():
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 224, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 895, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\engine\create.py", line 661, in connect
+    return dialect.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\engine\default.py", line 629, in connect
+    return self.loaded_dbapi.connect(*cargs, **cparams)  # type: ignore[no-any-return]  # NOQA: E501
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 955, in connect
+    await_only(creator_fn(*arg, **kw)),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 132, in await_only
+    return current.parent.switch(awaitable)  # type: ignore[no-any-return,attr-defined] # noqa: E501
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 196, in greenlet_spawn
+    value = await result
+            ^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\asyncpg\connection.py", line 2421, in connect
+    return await connect_utils._connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\asyncpg\connect_utils.py", line 1049, in _connect
+    conn = await _connect_addr(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\asyncpg\connect_utils.py", line 886, in _connect_addr
+    return await __connect_addr(params, True, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\asyncpg\connect_utils.py", line 934, in __connect_addr
+    await connected
+asyncpg.exceptions.InvalidPasswordError: password authentication failed for user "postgres"
+2025-12-22 02:21:12,942 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-22 02:21:12,943 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-22 02:21:12,943 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
+2025-12-22 02:21:13,199 - aiogram.dispatcher - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
+2025-12-22 02:21:18,732 - aiogram.event - INFO - Update id=370041801 is not handled. Duration 78 ms by bot id=8274456690
+2025-12-22 02:21:18,732 - aiogram.event - ERROR - Cause exception while process update id=370041801 by bot id=8274456690
+InvalidPasswordError: password authentication failed for user "postgres"
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\middlewares\logging.py", line 26, in __call__
+    response = await handler(event, data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\middlewares\auth.py", line 25, in __call__
+    user = await manager.get_or_create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\manager\user.py", line 53, in get_or_create
+    user = await self.get(user_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\manager\user.py", line 23, in get
+    result = await self.db.execute(stmt)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\ext\asyncio\session.py", line 449, in execute
+    result = await greenlet_spawn(
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 201, in greenlet_spawn
+    result = context.throw(*sys.exc_info())
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2351, in execute
+    return self._execute_internal(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2239, in _execute_internal
+    conn = self._connection_for_bind(bind)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2108, in _connection_for_bind
+    return trans._connection_for_bind(engine, execution_options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 2, in _connection_for_bind
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\orm\state_changes.py", line 137, in _go
+    ret_value = fn(self, *arg, **kw)
+                ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 1187, in _connection_for_bind
+    conn = bind.connect()
+           ^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 3277, in connect
+    return self._connection_cls(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 143, in __init__
+    self._dbapi_connection = engine.raw_connection()
+                             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 3301, in raw_connection
+    return self.pool.connect()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 447, in connect
+    return _ConnectionFairy._checkout(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 1264, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 711, in checkout
+    rec = pool._do_get()
+          ^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\impl.py", line 177, in _do_get
+    with util.safe_reraise():
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 224, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\impl.py", line 175, in _do_get
+    return self._create_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 388, in _create_connection
+    return _ConnectionRecord(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 673, in __init__
+    self.__connect()
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 899, in __connect
+    with util.safe_reraise():
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 224, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 895, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\engine\create.py", line 661, in connect
+    return dialect.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\engine\default.py", line 629, in connect
+    return self.loaded_dbapi.connect(*cargs, **cparams)  # type: ignore[no-any-return]  # NOQA: E501
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 955, in connect
+    await_only(creator_fn(*arg, **kw)),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 132, in await_only
+    return current.parent.switch(awaitable)  # type: ignore[no-any-return,attr-defined] # noqa: E501
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 196, in greenlet_spawn
+    value = await result
+            ^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\asyncpg\connection.py", line 2421, in connect
+    return await connect_utils._connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\asyncpg\connect_utils.py", line 1049, in _connect
+    conn = await _connect_addr(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\asyncpg\connect_utils.py", line 886, in _connect_addr
+    return await __connect_addr(params, True, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\asyncpg\connect_utils.py", line 934, in __connect_addr
+    await connected
+asyncpg.exceptions.InvalidPasswordError: password authentication failed for user "postgres"
+2025-12-22 02:53:09,599 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-22 02:53:09,600 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-22 02:53:09,600 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
+2025-12-22 02:53:09,864 - aiogram.dispatcher - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
+2025-12-22 02:53:23,604 - aiogram.event - INFO - Update id=370041802 is not handled. Duration 78 ms by bot id=8274456690
+2025-12-22 02:53:23,604 - aiogram.event - ERROR - Cause exception while process update id=370041802 by bot id=8274456690
+InvalidPasswordError: password authentication failed for user "postgres"
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\middlewares\logging.py", line 26, in __call__
+    response = await handler(event, data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\middlewares\auth.py", line 25, in __call__
+    user = await manager.get_or_create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\manager\user.py", line 53, in get_or_create
+    user = await self.get(user_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\manager\user.py", line 23, in get
+    result = await self.db.execute(stmt)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\ext\asyncio\session.py", line 449, in execute
+    result = await greenlet_spawn(
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 201, in greenlet_spawn
+    result = context.throw(*sys.exc_info())
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2351, in execute
+    return self._execute_internal(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2239, in _execute_internal
+    conn = self._connection_for_bind(bind)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2108, in _connection_for_bind
+    return trans._connection_for_bind(engine, execution_options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 2, in _connection_for_bind
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\orm\state_changes.py", line 137, in _go
+    ret_value = fn(self, *arg, **kw)
+                ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 1187, in _connection_for_bind
+    conn = bind.connect()
+           ^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 3277, in connect
+    return self._connection_cls(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 143, in __init__
+    self._dbapi_connection = engine.raw_connection()
+                             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 3301, in raw_connection
+    return self.pool.connect()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 447, in connect
+    return _ConnectionFairy._checkout(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 1264, in _checkout
+    fairy = _ConnectionRecord.checkout(pool)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 711, in checkout
+    rec = pool._do_get()
+          ^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\impl.py", line 177, in _do_get
+    with util.safe_reraise():
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 224, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\impl.py", line 175, in _do_get
+    return self._create_connection()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 388, in _create_connection
+    return _ConnectionRecord(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 673, in __init__
+    self.__connect()
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 899, in __connect
+    with util.safe_reraise():
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 224, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 895, in __connect
+    self.dbapi_connection = connection = pool._invoke_creator(self)
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\engine\create.py", line 661, in connect
+    return dialect.connect(*cargs, **cparams)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\engine\default.py", line 629, in connect
+    return self.loaded_dbapi.connect(*cargs, **cparams)  # type: ignore[no-any-return]  # NOQA: E501
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 955, in connect
+    await_only(creator_fn(*arg, **kw)),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 132, in await_only
+    return current.parent.switch(awaitable)  # type: ignore[no-any-return,attr-defined] # noqa: E501
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 196, in greenlet_spawn
+    value = await result
+            ^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\asyncpg\connection.py", line 2421, in connect
+    return await connect_utils._connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\asyncpg\connect_utils.py", line 1049, in _connect
+    conn = await _connect_addr(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\asyncpg\connect_utils.py", line 886, in _connect_addr
+    return await __connect_addr(params, True, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\asyncpg\connect_utils.py", line 934, in __connect_addr
+    await connected
+asyncpg.exceptions.InvalidPasswordError: password authentication failed for user "postgres"
+2025-12-22 02:53:40,504 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-22 02:53:40,506 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-22 02:53:40,506 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
+2025-12-22 02:53:40,767 - aiogram.dispatcher - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
