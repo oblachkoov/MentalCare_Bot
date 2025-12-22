@@ -1,468 +1,2086 @@
-2025-12-21 22:45:28,717 - INFO - MESSAGE - 0.0 ms
-2025-12-21 22:45:28,718 - INFO - Update id=370041701 is handled. Duration 0 ms by bot id=8274456690
-2025-12-21 22:45:35,963 - INFO - MESSAGE - 0.0 ms
-2025-12-21 22:45:35,963 - INFO - Update id=370041702 is handled. Duration 0 ms by bot id=8274456690
-2025-12-21 22:45:36,441 - INFO - MESSAGE - 0.0 ms
-2025-12-21 22:45:36,441 - INFO - Update id=370041703 is handled. Duration 0 ms by bot id=8274456690
-2025-12-21 22:45:36,856 - INFO - MESSAGE - 0.0 ms
-2025-12-21 22:45:36,857 - INFO - Update id=370041704 is handled. Duration 0 ms by bot id=8274456690
-2025-12-21 22:45:37,269 - INFO - MESSAGE - 0.0 ms
-2025-12-21 22:45:37,270 - INFO - Update id=370041705 is handled. Duration 0 ms by bot id=8274456690
-2025-12-21 22:45:37,621 - INFO - MESSAGE - 0.0 ms
-2025-12-21 22:45:37,621 - INFO - Update id=370041706 is handled. Duration 0 ms by bot id=8274456690
-2025-12-21 22:47:58,094 - INFO - Polling stopped
-2025-12-21 22:47:58,095 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
-2025-12-21 22:47:58,096 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
-2025-12-21 22:47:58,347 - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
-2025-12-21 22:51:58,692 - INFO - MESSAGE - 0.0 ms
-2025-12-21 22:51:58,693 - INFO - Update id=370041707 is handled. Duration 0 ms by bot id=8274456690
-2025-12-21 22:52:20,903 - INFO - Polling stopped
-2025-12-21 22:52:20,904 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
-2025-12-21 22:52:20,905 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
-2025-12-21 22:52:21,164 - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
-2025-12-21 22:52:26,142 - INFO - MESSAGE - 0.0 ms
-2025-12-21 22:52:26,142 - INFO - Update id=370041708 is handled. Duration 0 ms by bot id=8274456690
-2025-12-21 22:53:14,464 - INFO - Polling stopped
-2025-12-21 22:53:14,465 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
-2025-12-21 22:53:14,465 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
-2025-12-21 22:53:14,727 - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
-2025-12-21 22:54:40,937 - INFO - MESSAGE - 0.0 ms
-2025-12-21 22:54:40,937 - INFO - Update id=370041709 is handled. Duration 0 ms by bot id=8274456690
-2025-12-21 22:57:20,194 - INFO - Polling stopped
-2025-12-21 22:57:20,197 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
-2025-12-21 22:57:20,197 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
-2025-12-21 22:57:20,452 - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
-2025-12-21 22:57:25,589 - INFO - MESSAGE - 0.0 ms
-2025-12-21 22:57:25,589 - INFO - Update id=370041710 is handled. Duration 0 ms by bot id=8274456690
-2025-12-21 22:57:40,850 - INFO - Polling stopped
-2025-12-21 22:57:40,851 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
-2025-12-21 22:57:40,851 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
-2025-12-21 22:57:41,106 - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
-2025-12-21 22:59:23,796 - INFO - MESSAGE - 0.0 ms
-2025-12-21 22:59:23,796 - INFO - Update id=370041711 is handled. Duration 0 ms by bot id=8274456690
-2025-12-21 23:02:45,986 - INFO - Polling stopped
-2025-12-21 23:02:45,987 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
-2025-12-21 23:02:45,987 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
-2025-12-21 23:02:46,247 - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
-2025-12-21 23:02:51,526 - INFO - MESSAGE - 0.0 ms
-2025-12-21 23:02:51,526 - INFO - Update id=370041712 is handled. Duration 0 ms by bot id=8274456690
-2025-12-21 23:05:15,121 - INFO - Polling stopped
-2025-12-21 23:05:15,122 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
-2025-12-21 23:05:15,122 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
-2025-12-21 23:05:15,375 - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
-2025-12-21 23:05:33,409 - INFO - MESSAGE - 0.0 ms
-2025-12-21 23:05:33,410 - INFO - Update id=370041713 is handled. Duration 0 ms by bot id=8274456690
-2025-12-21 23:05:35,150 - INFO - MESSAGE - 0.0 ms
-2025-12-21 23:05:35,150 - INFO - Update id=370041714 is handled. Duration 15 ms by bot id=8274456690
-2025-12-21 23:05:39,665 - INFO - Polling stopped
-2025-12-21 23:05:39,666 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
-2025-12-21 23:05:39,666 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
-2025-12-21 23:05:39,917 - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
-2025-12-21 23:08:47,051 - INFO - MESSAGE - 0.0 ms
-2025-12-21 23:08:47,051 - INFO - Update id=370041715 is handled. Duration 0 ms by bot id=8274456690
-2025-12-21 23:17:25,800 - INFO - Polling stopped
-2025-12-21 23:17:25,802 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
-2025-12-21 23:17:25,802 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
-2025-12-21 23:17:26,054 - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
-2025-12-21 23:17:30,713 - INFO - MESSAGE - 0.0 ms
-2025-12-21 23:17:30,714 - INFO - Update id=370041716 is handled. Duration 0 ms by bot id=8274456690
-2025-12-21 23:21:15,698 - INFO - Polling stopped
-2025-12-21 23:21:15,699 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
-2025-12-21 23:21:15,699 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
-2025-12-21 23:21:15,951 - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
-2025-12-21 23:24:56,752 - INFO - MESSAGE - 0.0 ms
-2025-12-21 23:24:56,752 - INFO - Update id=370041717 is handled. Duration 0 ms by bot id=8274456690
-2025-12-21 23:24:56,754 - INFO - MESSAGE - 0.0 ms
-2025-12-21 23:24:56,754 - INFO - Update id=370041718 is handled. Duration 0 ms by bot id=8274456690
-2025-12-21 23:26:48,695 - INFO - Polling stopped
-2025-12-21 23:26:48,696 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
-2025-12-21 23:26:48,697 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
-2025-12-21 23:26:48,952 - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
-2025-12-21 23:26:53,818 - INFO - MESSAGE - 0.0 ms
-2025-12-21 23:26:53,818 - INFO - Update id=370041719 is handled. Duration 0 ms by bot id=8274456690
-2025-12-21 23:27:52,030 - INFO - Polling stopped
-2025-12-21 23:27:52,032 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
-2025-12-21 23:27:52,032 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
-2025-12-21 23:27:52,295 - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
-2025-12-22 01:34:21,442 - INFO - MESSAGE - 0.0 ms
-2025-12-22 01:34:21,442 - INFO - Update id=370041795 is handled. Duration 0 ms by bot id=8274456690
-2025-12-22 01:34:33,853 - INFO - MESSAGE - 0.0 ms
-2025-12-22 01:34:33,854 - INFO - Update id=370041796 is handled. Duration 16 ms by bot id=8274456690
-2025-12-22 01:34:43,228 - INFO - MESSAGE - 0.0 ms
-2025-12-22 01:34:43,228 - INFO - Update id=370041797 is handled. Duration 0 ms by bot id=8274456690
-2025-12-22 01:36:18,140 - INFO - Polling stopped
-2025-12-22 01:36:18,141 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
-2025-12-22 01:36:18,141 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
-2025-12-22 01:36:18,392 - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
-2025-12-22 02:18:28,161 - aiogram.event - INFO - Update id=370041800 is not handled. Duration 77 ms by bot id=8274456690
-2025-12-22 02:18:28,161 - aiogram.event - ERROR - Cause exception while process update id=370041800 by bot id=8274456690
-InvalidPasswordError: password authentication failed for user "postgres"
+2025-12-22 15:07:02,538 - bot - INFO - MESSAGE - 484.85612869262695
+2025-12-22 15:07:02,539 - aiogram.event - INFO - Update id=370041960 is handled. Duration 487 ms by bot id=8274456690
+2025-12-22 15:07:23,551 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-22 15:07:23,552 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-22 15:07:23,552 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
+2025-12-22 15:07:23,808 - aiogram.dispatcher - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
+2025-12-22 15:07:28,620 - bot - INFO - MESSAGE - 494.94171142578125
+2025-12-22 15:07:28,620 - aiogram.event - INFO - Update id=370041961 is handled. Duration 497 ms by bot id=8274456690
+2025-12-22 15:07:56,870 - bot - INFO - MESSAGE - 177.05631256103516
+2025-12-22 15:07:56,870 - aiogram.event - INFO - Update id=370041962 is handled. Duration 177 ms by bot id=8274456690
+2025-12-22 15:09:19,668 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-22 15:09:19,669 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-22 15:09:19,669 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
+2025-12-22 15:09:19,932 - aiogram.dispatcher - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
+2025-12-22 15:09:25,984 - bot - INFO - MESSAGE - 459.8209857940674
+2025-12-22 15:09:25,984 - aiogram.event - INFO - Update id=370041963 is handled. Duration 462 ms by bot id=8274456690
+2025-12-22 15:10:23,511 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-22 15:10:23,512 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-22 15:10:23,512 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
+2025-12-22 15:10:23,764 - aiogram.dispatcher - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
+2025-12-22 15:10:28,850 - bot - INFO - MESSAGE - 455.33156394958496
+2025-12-22 15:10:28,851 - aiogram.event - INFO - Update id=370041964 is handled. Duration 457 ms by bot id=8274456690
+2025-12-22 15:11:22,295 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-22 15:11:22,296 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-22 15:11:22,296 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
+2025-12-22 15:11:22,553 - aiogram.dispatcher - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
+2025-12-22 15:11:27,160 - bot - INFO - MESSAGE - 450.0162601470947
+2025-12-22 15:11:27,160 - aiogram.event - INFO - Update id=370041965 is handled. Duration 451 ms by bot id=8274456690
+2025-12-22 15:11:36,578 - bot - INFO - MESSAGE - 127.3488998413086
+2025-12-22 15:11:36,579 - aiogram.event - INFO - Update id=370041966 is handled. Duration 127 ms by bot id=8274456690
+2025-12-22 15:23:06,341 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-22 15:23:06,342 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-22 15:23:06,342 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
+2025-12-22 15:23:06,604 - aiogram.dispatcher - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
+2025-12-22 15:23:20,443 - bot - INFO - MESSAGE - 475.65293312072754
+2025-12-22 15:23:20,443 - aiogram.event - INFO - Update id=370041967 is handled. Duration 477 ms by bot id=8274456690
+2025-12-22 15:23:22,561 - bot - INFO - MESSAGE - 134.55486297607422
+2025-12-22 15:23:22,562 - aiogram.event - INFO - Update id=370041968 is handled. Duration 135 ms by bot id=8274456690
+2025-12-22 15:24:59,151 - bot - INFO - MESSAGE - 137.70341873168945
+2025-12-22 15:24:59,151 - aiogram.event - INFO - Update id=370041969 is handled. Duration 138 ms by bot id=8274456690
+2025-12-22 15:25:17,689 - bot - INFO - MESSAGE - 127.37488746643066
+2025-12-22 15:25:17,690 - aiogram.event - INFO - Update id=370041970 is handled. Duration 128 ms by bot id=8274456690
+2025-12-22 15:25:55,047 - bot - INFO - MESSAGE - 127.23040580749512
+2025-12-22 15:25:55,047 - aiogram.event - INFO - Update id=370041971 is handled. Duration 127 ms by bot id=8274456690
+2025-12-22 15:26:10,270 - bot - INFO - MESSAGE - 151.25608444213867
+2025-12-22 15:26:10,271 - aiogram.event - INFO - Update id=370041972 is handled. Duration 151 ms by bot id=8274456690
+2025-12-22 15:26:23,092 - bot - INFO - MESSAGE - 135.0259780883789
+2025-12-22 15:26:23,092 - aiogram.event - INFO - Update id=370041973 is handled. Duration 135 ms by bot id=8274456690
+2025-12-22 15:37:40,459 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-22 15:37:40,460 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-22 15:37:40,460 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
+2025-12-22 15:37:40,721 - aiogram.dispatcher - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
+2025-12-22 15:37:45,011 - bot - INFO - MESSAGE - 425.19569396972656
+2025-12-22 15:37:45,012 - aiogram.event - INFO - Update id=370041974 is handled. Duration 426 ms by bot id=8274456690
+2025-12-22 15:37:52,997 - bot - INFO - Callback - 135.09273529052734
+2025-12-22 15:37:52,998 - aiogram.event - INFO - Update id=370041975 is handled. Duration 135 ms by bot id=8274456690
+2025-12-22 15:37:55,034 - bot - INFO - Callback - 123.63791465759277
+2025-12-22 15:37:55,034 - aiogram.event - INFO - Update id=370041976 is handled. Duration 124 ms by bot id=8274456690
+2025-12-22 15:37:57,863 - bot - INFO - Callback - 137.58349418640137
+2025-12-22 15:37:57,863 - aiogram.event - INFO - Update id=370041977 is handled. Duration 138 ms by bot id=8274456690
+2025-12-22 15:37:59,613 - bot - INFO - Callback - 146.54040336608887
+2025-12-22 15:37:59,614 - aiogram.event - INFO - Update id=370041978 is handled. Duration 147 ms by bot id=8274456690
+2025-12-22 15:38:00,919 - bot - INFO - MESSAGE - 135.63179969787598
+2025-12-22 15:38:00,920 - aiogram.event - INFO - Update id=370041979 is handled. Duration 136 ms by bot id=8274456690
+2025-12-22 15:38:08,116 - bot - INFO - MESSAGE - 136.67058944702148
+2025-12-22 15:38:08,116 - aiogram.event - INFO - Update id=370041980 is handled. Duration 137 ms by bot id=8274456690
+2025-12-22 15:38:29,325 - bot - INFO - MESSAGE - 128.48925590515137
+2025-12-22 15:38:29,326 - aiogram.event - INFO - Update id=370041981 is handled. Duration 129 ms by bot id=8274456690
+2025-12-22 15:38:49,380 - bot - INFO - Callback - 148.6673355102539
+2025-12-22 15:38:49,381 - aiogram.event - INFO - Update id=370041982 is handled. Duration 149 ms by bot id=8274456690
+2025-12-22 15:38:53,867 - bot - INFO - Callback - 134.11831855773926
+2025-12-22 15:38:53,867 - aiogram.event - INFO - Update id=370041983 is handled. Duration 134 ms by bot id=8274456690
+2025-12-22 15:38:56,437 - bot - INFO - MESSAGE - 144.13118362426758
+2025-12-22 15:38:56,438 - aiogram.event - INFO - Update id=370041984 is handled. Duration 144 ms by bot id=8274456690
+2025-12-22 15:42:02,567 - bot - INFO - MESSAGE - 147.7181911468506
+2025-12-22 15:42:02,567 - aiogram.event - INFO - Update id=370041985 is handled. Duration 148 ms by bot id=8274456690
+2025-12-22 15:42:04,426 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-22 15:42:04,427 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-22 15:42:04,427 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
+2025-12-22 15:42:04,688 - aiogram.dispatcher - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
+2025-12-22 15:42:11,617 - bot - INFO - MESSAGE - 521.904706954956
+2025-12-22 15:42:11,617 - aiogram.event - INFO - Update id=370041986 is handled. Duration 523 ms by bot id=8274456690
+2025-12-22 15:42:13,404 - bot - INFO - Callback - 217.53549575805664
+2025-12-22 15:42:13,404 - aiogram.event - INFO - Update id=370041987 is handled. Duration 218 ms by bot id=8274456690
+2025-12-22 15:42:14,504 - bot - INFO - Callback - 131.40082359313965
+2025-12-22 15:42:14,504 - aiogram.event - INFO - Update id=370041988 is handled. Duration 132 ms by bot id=8274456690
+2025-12-22 15:42:15,524 - bot - INFO - Callback - 231.34970664978027
+2025-12-22 15:42:15,524 - aiogram.event - INFO - Update id=370041989 is handled. Duration 231 ms by bot id=8274456690
+2025-12-22 15:42:18,675 - bot - INFO - Callback - 131.4990520477295
+2025-12-22 15:42:18,675 - aiogram.event - INFO - Update id=370041990 is handled. Duration 132 ms by bot id=8274456690
+2025-12-22 15:42:20,365 - bot - INFO - Callback - 133.4376335144043
+2025-12-22 15:42:20,365 - aiogram.event - INFO - Update id=370041991 is handled. Duration 134 ms by bot id=8274456690
+2025-12-22 15:42:21,408 - bot - INFO - Callback - 230.55386543273926
+2025-12-22 15:42:21,408 - aiogram.event - INFO - Update id=370041992 is handled. Duration 231 ms by bot id=8274456690
+2025-12-22 15:42:27,917 - bot - INFO - Callback - 10.966300964355469
+2025-12-22 15:42:27,917 - aiogram.event - INFO - Update id=370041993 is not handled. Duration 11 ms by bot id=8274456690
+2025-12-22 15:42:29,774 - bot - INFO - Callback - 133.06474685668945
+2025-12-22 15:42:29,774 - aiogram.event - INFO - Update id=370041994 is handled. Duration 133 ms by bot id=8274456690
+2025-12-22 15:42:31,139 - bot - INFO - Callback - 161.35263442993164
+2025-12-22 15:42:31,140 - aiogram.event - INFO - Update id=370041995 is handled. Duration 162 ms by bot id=8274456690
+2025-12-22 15:42:32,151 - bot - INFO - Callback - 172.46723175048828
+2025-12-22 15:42:32,152 - aiogram.event - INFO - Update id=370041996 is handled. Duration 173 ms by bot id=8274456690
+2025-12-22 15:42:33,352 - bot - INFO - Callback - 11.292695999145508
+2025-12-22 15:42:33,353 - aiogram.event - INFO - Update id=370041997 is not handled. Duration 12 ms by bot id=8274456690
+2025-12-22 15:42:34,518 - bot - INFO - Callback - 163.87033462524414
+2025-12-22 15:42:34,518 - aiogram.event - INFO - Update id=370041998 is handled. Duration 164 ms by bot id=8274456690
+2025-12-22 15:42:37,476 - bot - INFO - Callback - 11.330842971801758
+2025-12-22 15:42:37,476 - aiogram.event - INFO - Update id=370041999 is not handled. Duration 12 ms by bot id=8274456690
+2025-12-22 15:42:42,834 - bot - INFO - Callback - 135.3902816772461
+2025-12-22 15:42:42,834 - aiogram.event - INFO - Update id=370042000 is handled. Duration 136 ms by bot id=8274456690
+2025-12-22 15:42:44,187 - bot - INFO - Callback - 242.3865795135498
+2025-12-22 15:42:44,188 - aiogram.event - INFO - Update id=370042001 is handled. Duration 243 ms by bot id=8274456690
+2025-12-22 15:42:46,089 - bot - INFO - Callback - 131.67834281921387
+2025-12-22 15:42:46,089 - aiogram.event - INFO - Update id=370042002 is handled. Duration 132 ms by bot id=8274456690
+2025-12-22 15:42:47,143 - bot - INFO - Callback - 132.5690746307373
+2025-12-22 15:42:47,143 - aiogram.event - INFO - Update id=370042003 is handled. Duration 133 ms by bot id=8274456690
+2025-12-22 15:42:48,231 - bot - INFO - Callback - 240.0047779083252
+2025-12-22 15:42:48,231 - aiogram.event - INFO - Update id=370042004 is handled. Duration 240 ms by bot id=8274456690
+2025-12-22 15:42:49,671 - bot - INFO - Callback - 135.58292388916016
+2025-12-22 15:42:49,671 - aiogram.event - INFO - Update id=370042005 is handled. Duration 136 ms by bot id=8274456690
+2025-12-22 15:46:24,297 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-22 15:46:24,299 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-22 15:46:24,299 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
+2025-12-22 15:46:24,556 - aiogram.dispatcher - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
+2025-12-22 15:46:44,413 - bot - INFO - MESSAGE - 474.6670722961426
+2025-12-22 15:46:44,413 - aiogram.event - INFO - Update id=370042006 is handled. Duration 478 ms by bot id=8274456690
+2025-12-22 15:46:46,608 - bot - INFO - Callback - 168.7033176422119
+2025-12-22 15:46:46,608 - aiogram.event - INFO - Update id=370042007 is handled. Duration 169 ms by bot id=8274456690
+2025-12-22 15:46:49,812 - bot - INFO - Callback - 123.01969528198242
+2025-12-22 15:46:49,812 - aiogram.event - INFO - Update id=370042008 is handled. Duration 123 ms by bot id=8274456690
+2025-12-22 15:46:50,815 - bot - INFO - Callback - 154.28543090820312
+2025-12-22 15:46:50,816 - aiogram.event - INFO - Update id=370042009 is handled. Duration 154 ms by bot id=8274456690
+2025-12-22 15:46:52,153 - bot - INFO - Callback - 135.48612594604492
+2025-12-22 15:46:52,154 - aiogram.event - INFO - Update id=370042010 is handled. Duration 136 ms by bot id=8274456690
+2025-12-22 15:46:52,816 - bot - INFO - Callback - 126.63793563842773
+2025-12-22 15:46:52,816 - aiogram.event - INFO - Update id=370042011 is handled. Duration 127 ms by bot id=8274456690
+2025-12-22 15:46:53,634 - bot - INFO - Callback - 243.64018440246582
+2025-12-22 15:46:53,635 - aiogram.event - INFO - Update id=370042012 is handled. Duration 244 ms by bot id=8274456690
+2025-12-22 15:46:54,329 - bot - INFO - Callback - 124.63021278381348
+2025-12-22 15:46:54,330 - aiogram.event - INFO - Update id=370042013 is handled. Duration 125 ms by bot id=8274456690
+2025-12-22 15:46:55,060 - bot - INFO - Callback - 134.82284545898438
+2025-12-22 15:46:55,060 - aiogram.event - INFO - Update id=370042014 is handled. Duration 136 ms by bot id=8274456690
+2025-12-22 15:46:58,878 - bot - INFO - Callback - 125.29969215393066
+2025-12-22 15:46:58,879 - aiogram.event - INFO - Update id=370042015 is handled. Duration 125 ms by bot id=8274456690
+2025-12-22 15:47:02,318 - bot - INFO - Callback - 127.6848316192627
+2025-12-22 15:47:02,318 - aiogram.event - INFO - Update id=370042016 is handled. Duration 128 ms by bot id=8274456690
+2025-12-22 15:47:03,336 - bot - INFO - Callback - 132.06219673156738
+2025-12-22 15:47:03,336 - aiogram.event - INFO - Update id=370042017 is handled. Duration 132 ms by bot id=8274456690
+2025-12-22 15:47:04,652 - bot - INFO - Callback - 137.8650665283203
+2025-12-22 15:47:04,653 - aiogram.event - INFO - Update id=370042018 is handled. Duration 138 ms by bot id=8274456690
+2025-12-22 15:47:05,568 - bot - INFO - Callback - 197.51214981079102
+2025-12-22 15:47:05,569 - aiogram.event - INFO - Update id=370042019 is handled. Duration 198 ms by bot id=8274456690
+2025-12-22 15:47:06,263 - bot - INFO - Callback - 159.40213203430176
+2025-12-22 15:47:06,263 - aiogram.event - INFO - Update id=370042020 is handled. Duration 160 ms by bot id=8274456690
+2025-12-22 15:47:08,314 - bot - INFO - Callback - 134.21225547790527
+2025-12-22 15:47:08,315 - aiogram.event - INFO - Update id=370042021 is handled. Duration 134 ms by bot id=8274456690
+2025-12-22 15:47:09,710 - bot - INFO - Callback - 200.21557807922363
+2025-12-22 15:47:09,710 - aiogram.event - INFO - Update id=370042022 is handled. Duration 201 ms by bot id=8274456690
+2025-12-22 15:47:17,160 - bot - INFO - Callback - 261.78455352783203
+2025-12-22 15:47:17,161 - aiogram.event - INFO - Update id=370042023 is handled. Duration 262 ms by bot id=8274456690
+2025-12-22 15:47:18,522 - aiogram.event - INFO - Update id=370042024 is not handled. Duration 121 ms by bot id=8274456690
+2025-12-22 15:47:18,522 - aiogram.event - ERROR - Cause exception while process update id=370042024 by bot id=8274456690
+TelegramBadRequest: Telegram server says - Bad Request: there is no text in the message to edit
 Traceback (most recent call last):
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
     response = await self.feed_update(bot, update, **kwargs)
                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
     response = await self.update.wrap_outer_middleware(
                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    ...<7 lines>...
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
     return await handler(event, data)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
     return await handler(event, data)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
     return await handler(event, data)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
     return await wrapped_inner(event, kwargs)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\middlewares\logging.py", line 26, in __call__
+  File "D:\SS Sanjar\python\V_bot\midlewares\logging.py", line 26, in __call__
     response = await handler(event, data)
                ^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\middlewares\auth.py", line 25, in __call__
-    user = await manager.get_or_create(
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\manager\user.py", line 53, in get_or_create
-    user = await self.get(user_id)
-           ^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\manager\user.py", line 23, in get
-    result = await self.db.execute(stmt)
-             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\ext\asyncio\session.py", line 449, in execute
-    result = await greenlet_spawn(
-             ^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 201, in greenlet_spawn
-    result = context.throw(*sys.exc_info())
-             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2351, in execute
-    return self._execute_internal(
-           ^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2239, in _execute_internal
-    conn = self._connection_for_bind(bind)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2108, in _connection_for_bind
-    return trans._connection_for_bind(engine, execution_options)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "<string>", line 2, in _connection_for_bind
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\orm\state_changes.py", line 137, in _go
-    ret_value = fn(self, *arg, **kw)
-                ^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 1187, in _connection_for_bind
-    conn = bind.connect()
-           ^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 3277, in connect
-    return self._connection_cls(self)
+  File "D:\SS Sanjar\python\V_bot\midlewares\auth.py", line 31, in __call__
+    return await handler(event, data)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 143, in __init__
-    self._dbapi_connection = engine.raw_connection()
-                             ^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 3301, in raw_connection
-    return self.pool.connect()
-           ^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 447, in connect
-    return _ConnectionFairy._checkout(self)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 1264, in _checkout
-    fairy = _ConnectionRecord.checkout(pool)
-            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 711, in checkout
-    rec = pool._do_get()
-          ^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\impl.py", line 177, in _do_get
-    with util.safe_reraise():
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 224, in __exit__
-    raise exc_value.with_traceback(exc_tb)
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\impl.py", line 175, in _do_get
-    return self._create_connection()
-           ^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 388, in _create_connection
-    return _ConnectionRecord(self)
-           ^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 673, in __init__
-    self.__connect()
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 899, in __connect
-    with util.safe_reraise():
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 224, in __exit__
-    raise exc_value.with_traceback(exc_tb)
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 895, in __connect
-    self.dbapi_connection = connection = pool._invoke_creator(self)
-                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\engine\create.py", line 661, in connect
-    return dialect.connect(*cargs, **cparams)
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\engine\default.py", line 629, in connect
-    return self.loaded_dbapi.connect(*cargs, **cparams)  # type: ignore[no-any-return]  # NOQA: E501
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 955, in connect
-    await_only(creator_fn(*arg, **kw)),
-    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 132, in await_only
-    return current.parent.switch(awaitable)  # type: ignore[no-any-return,attr-defined] # noqa: E501
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 196, in greenlet_spawn
-    value = await result
-            ^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\asyncpg\connection.py", line 2421, in connect
-    return await connect_utils._connect(
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\asyncpg\connect_utils.py", line 1049, in _connect
-    conn = await _connect_addr(
-           ^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\asyncpg\connect_utils.py", line 886, in _connect_addr
-    return await __connect_addr(params, True, *args)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\asyncpg\connect_utils.py", line 934, in __connect_addr
-    await connected
-asyncpg.exceptions.InvalidPasswordError: password authentication failed for user "postgres"
-2025-12-22 02:21:12,942 - aiogram.dispatcher - INFO - Polling stopped
-2025-12-22 02:21:12,943 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
-2025-12-22 02:21:12,943 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
-2025-12-22 02:21:13,199 - aiogram.dispatcher - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
-2025-12-22 02:21:18,732 - aiogram.event - INFO - Update id=370041801 is not handled. Duration 78 ms by bot id=8274456690
-2025-12-22 02:21:18,732 - aiogram.event - ERROR - Cause exception while process update id=370041801 by bot id=8274456690
-InvalidPasswordError: password authentication failed for user "postgres"
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\routers\client.py", line 182, in back_to_menu
+    await cb.message.edit_text(
+    ...<2 lines>...
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\client\bot.py", line 485, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 185, in make_request
+    response = self.check_response(
+        bot=bot, method=method, status_code=resp.status, content=raw_result
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\client\session\base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: there is no text in the message to edit
+2025-12-22 15:47:24,655 - bot - INFO - Callback - 241.53828620910645
+2025-12-22 15:47:24,655 - aiogram.event - INFO - Update id=370042025 is handled. Duration 242 ms by bot id=8274456690
+2025-12-22 15:47:36,095 - aiogram.event - INFO - Update id=370042026 is not handled. Duration 109 ms by bot id=8274456690
+2025-12-22 15:47:36,095 - aiogram.event - ERROR - Cause exception while process update id=370042026 by bot id=8274456690
+TelegramBadRequest: Telegram server says - Bad Request: there is no text in the message to edit
 Traceback (most recent call last):
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
     response = await self.feed_update(bot, update, **kwargs)
                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
     response = await self.update.wrap_outer_middleware(
                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    ...<7 lines>...
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
     return await handler(event, data)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
     return await handler(event, data)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
     return await handler(event, data)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
     return await wrapped_inner(event, kwargs)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\middlewares\logging.py", line 26, in __call__
+  File "D:\SS Sanjar\python\V_bot\midlewares\logging.py", line 26, in __call__
     response = await handler(event, data)
                ^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\middlewares\auth.py", line 25, in __call__
-    user = await manager.get_or_create(
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\manager\user.py", line 53, in get_or_create
-    user = await self.get(user_id)
-           ^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\manager\user.py", line 23, in get
-    result = await self.db.execute(stmt)
-             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\ext\asyncio\session.py", line 449, in execute
-    result = await greenlet_spawn(
-             ^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 201, in greenlet_spawn
-    result = context.throw(*sys.exc_info())
-             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2351, in execute
-    return self._execute_internal(
-           ^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2239, in _execute_internal
-    conn = self._connection_for_bind(bind)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2108, in _connection_for_bind
-    return trans._connection_for_bind(engine, execution_options)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "<string>", line 2, in _connection_for_bind
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\orm\state_changes.py", line 137, in _go
-    ret_value = fn(self, *arg, **kw)
-                ^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 1187, in _connection_for_bind
-    conn = bind.connect()
-           ^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 3277, in connect
-    return self._connection_cls(self)
+  File "D:\SS Sanjar\python\V_bot\midlewares\auth.py", line 31, in __call__
+    return await handler(event, data)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 143, in __init__
-    self._dbapi_connection = engine.raw_connection()
-                             ^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 3301, in raw_connection
-    return self.pool.connect()
-           ^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 447, in connect
-    return _ConnectionFairy._checkout(self)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 1264, in _checkout
-    fairy = _ConnectionRecord.checkout(pool)
-            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 711, in checkout
-    rec = pool._do_get()
-          ^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\impl.py", line 177, in _do_get
-    with util.safe_reraise():
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 224, in __exit__
-    raise exc_value.with_traceback(exc_tb)
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\impl.py", line 175, in _do_get
-    return self._create_connection()
-           ^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 388, in _create_connection
-    return _ConnectionRecord(self)
-           ^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 673, in __init__
-    self.__connect()
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 899, in __connect
-    with util.safe_reraise():
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 224, in __exit__
-    raise exc_value.with_traceback(exc_tb)
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 895, in __connect
-    self.dbapi_connection = connection = pool._invoke_creator(self)
-                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\engine\create.py", line 661, in connect
-    return dialect.connect(*cargs, **cparams)
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\engine\default.py", line 629, in connect
-    return self.loaded_dbapi.connect(*cargs, **cparams)  # type: ignore[no-any-return]  # NOQA: E501
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 955, in connect
-    await_only(creator_fn(*arg, **kw)),
-    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 132, in await_only
-    return current.parent.switch(awaitable)  # type: ignore[no-any-return,attr-defined] # noqa: E501
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 196, in greenlet_spawn
-    value = await result
-            ^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\asyncpg\connection.py", line 2421, in connect
-    return await connect_utils._connect(
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\asyncpg\connect_utils.py", line 1049, in _connect
-    conn = await _connect_addr(
-           ^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\asyncpg\connect_utils.py", line 886, in _connect_addr
-    return await __connect_addr(params, True, *args)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\asyncpg\connect_utils.py", line 934, in __connect_addr
-    await connected
-asyncpg.exceptions.InvalidPasswordError: password authentication failed for user "postgres"
-2025-12-22 02:53:09,599 - aiogram.dispatcher - INFO - Polling stopped
-2025-12-22 02:53:09,600 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
-2025-12-22 02:53:09,600 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
-2025-12-22 02:53:09,864 - aiogram.dispatcher - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
-2025-12-22 02:53:23,604 - aiogram.event - INFO - Update id=370041802 is not handled. Duration 78 ms by bot id=8274456690
-2025-12-22 02:53:23,604 - aiogram.event - ERROR - Cause exception while process update id=370041802 by bot id=8274456690
-InvalidPasswordError: password authentication failed for user "postgres"
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\routers\client.py", line 182, in back_to_menu
+    await cb.message.edit_text(
+    ...<2 lines>...
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\client\bot.py", line 485, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 185, in make_request
+    response = self.check_response(
+        bot=bot, method=method, status_code=resp.status, content=raw_result
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\client\session\base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: there is no text in the message to edit
+2025-12-22 15:47:58,444 - aiogram.event - INFO - Update id=370042027 is not handled. Duration 108 ms by bot id=8274456690
+2025-12-22 15:47:58,445 - aiogram.event - ERROR - Cause exception while process update id=370042027 by bot id=8274456690
+TelegramBadRequest: Telegram server says - Bad Request: there is no text in the message to edit
 Traceback (most recent call last):
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
     response = await self.feed_update(bot, update, **kwargs)
                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
     response = await self.update.wrap_outer_middleware(
                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    ...<7 lines>...
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
     return await handler(event, data)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
     return await handler(event, data)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
     return await handler(event, data)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
     return await wrapped_inner(event, kwargs)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\middlewares\logging.py", line 26, in __call__
+  File "D:\SS Sanjar\python\V_bot\midlewares\logging.py", line 26, in __call__
     response = await handler(event, data)
                ^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\middlewares\auth.py", line 25, in __call__
+  File "D:\SS Sanjar\python\V_bot\midlewares\auth.py", line 31, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\routers\client.py", line 182, in back_to_menu
+    await cb.message.edit_text(
+    ...<2 lines>...
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\client\bot.py", line 485, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 185, in make_request
+    response = self.check_response(
+        bot=bot, method=method, status_code=resp.status, content=raw_result
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\client\session\base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: there is no text in the message to edit
+2025-12-22 15:48:03,300 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-22 15:48:03,301 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-22 15:48:03,301 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
+2025-12-22 15:48:03,560 - aiogram.dispatcher - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
+2025-12-22 15:48:14,851 - aiogram.event - INFO - Update id=370042028 is not handled. Duration 446 ms by bot id=8274456690
+2025-12-22 15:48:14,852 - aiogram.event - ERROR - Cause exception while process update id=370042028 by bot id=8274456690
+TelegramBadRequest: Telegram server says - Bad Request: there is no text in the message to edit
+Traceback (most recent call last):
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\midlewares\logging.py", line 26, in __call__
+    response = await handler(event, data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\midlewares\auth.py", line 31, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\routers\client.py", line 182, in back_to_menu
+    await cb.message.edit_text(
+    ...<2 lines>...
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\client\bot.py", line 485, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 185, in make_request
+    response = self.check_response(
+        bot=bot, method=method, status_code=resp.status, content=raw_result
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\client\session\base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: there is no text in the message to edit
+2025-12-22 15:57:08,218 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-22 15:57:08,220 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-22 15:57:08,220 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
+2025-12-22 15:57:08,472 - aiogram.dispatcher - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
+2025-12-22 15:57:13,553 - aiogram.event - INFO - Update id=370042029 is not handled. Duration 132 ms by bot id=8274456690
+2025-12-22 15:57:13,553 - aiogram.event - ERROR - Cause exception while process update id=370042029 by bot id=8274456690
+InvalidRequestError: When initializing mapper Mapper[User(users)], expression 'Note' failed to locate a name ('Note'). If this is a class name, consider adding this relationship() to the <class 'model.user.User'> class after both dependent classes have been defined.
+Traceback (most recent call last):
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\clsregistry.py", line 516, in _resolve_name
+    rval = d[token]
+           ~^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\util\_collections.py", line 345, in __missing__
+    self[key] = val = self.creator(key)
+                      ~~~~~~~~~~~~^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\clsregistry.py", line 484, in _access_cls
+    return self.fallback[key]
+           ~~~~~~~~~~~~~^^^^^
+KeyError: 'Note'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\midlewares\logging.py", line 26, in __call__
+    response = await handler(event, data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\midlewares\auth.py", line 25, in __call__
     user = await manager.get_or_create(
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\manager\user.py", line 53, in get_or_create
+    ...<2 lines>...
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\manager\user.py", line 38, in get_or_create
     user = await self.get(user_id)
            ^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\manager\user.py", line 23, in get
+  File "D:\SS Sanjar\python\V_bot\manager\user.py", line 23, in get
     result = await self.db.execute(stmt)
              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\ext\asyncio\session.py", line 449, in execute
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\ext\asyncio\session.py", line 449, in execute
     result = await greenlet_spawn(
              ^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 201, in greenlet_spawn
-    result = context.throw(*sys.exc_info())
-             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2351, in execute
+    ...<6 lines>...
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 203, in greenlet_spawn
+    result = context.switch(value)
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2351, in execute
     return self._execute_internal(
-           ^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2239, in _execute_internal
-    conn = self._connection_for_bind(bind)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2108, in _connection_for_bind
-    return trans._connection_for_bind(engine, execution_options)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "<string>", line 2, in _connection_for_bind
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\orm\state_changes.py", line 137, in _go
-    ret_value = fn(self, *arg, **kw)
-                ^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 1187, in _connection_for_bind
-    conn = bind.connect()
-           ^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 3277, in connect
-    return self._connection_cls(self)
+           ~~~~~~~~~~~~~~~~~~~~~~^
+        statement,
+        ^^^^^^^^^^
+    ...<4 lines>...
+        _add_event=_add_event,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2249, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<4 lines>...
+        conn,
+        ^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 306, in orm_execute_statement
+    result = conn.execute(
+        statement, params or {}, execution_options=execution_options
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1419, in execute
+    return meth(
+        self,
+        distilled_parameters,
+        execution_options or NO_OPTIONS,
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 526, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self, distilled_params, execution_options
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1633, in _execute_clauseelement
+    compiled_sql, extracted_params, cache_hit = elem._compile_w_cache(
+                                                ~~~~~~~~~~~~~~~~~~~~~^
+        dialect=dialect,
+        ^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+        linting=self.dialect.compiler_linting | compiler.WARN_LINTING,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 715, in _compile_w_cache
+    compiled_sql = self._compiler(
+        dialect,
+    ...<4 lines>...
+        **kw,
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 323, in _compiler
+    return dialect.statement_compiler(dialect, self, **kw)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 1446, in __init__
+    Compiled.__init__(self, dialect, statement, **kwargs)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 886, in __init__
+    self.string = self.process(self.statement, **compile_kwargs)
+                  ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 932, in process
+    return obj._compiler_dispatch(self, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\visitors.py", line 138, in _compiler_dispatch
+    return meth(self, **kw)  # type: ignore  # noqa: E501
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 4781, in visit_select
+    compile_state = select_stmt._compile_state_factory(
+        select_stmt, self, **kwargs
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\base.py", line 701, in create_for_statement
+    return klass.create_for_statement(statement, compiler, **kw)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 447, in create_for_statement
+    return cls._create_orm_context(
+           ~~~~~~~~~~~~~~~~~~~~~~~^
+        cast("Union[Select, FromStatement]", statement),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        **kw,
+        ^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 1175, in _create_orm_context
+    _QueryEntity.to_compile_state(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<2 lines>...
+        is_current_entities=True,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 2628, in to_compile_state
+    _MapperEntity(
+    ~~~~~~~~~~~~~^
+        compile_state,
+        ^^^^^^^^^^^^^^
+    ...<2 lines>...
+        is_current_entities,
+        ^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 2708, in __init__
+    entity._post_inspect
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 1338, in __get__
+    obj.__dict__[self.__name__] = result = self.fget(obj)
+                                           ~~~~~~~~~^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 2724, in _post_inspect
+    self._check_configure()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 2401, in _check_configure
+    _configure_registries({self.registry}, cascade=True)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 4218, in _configure_registries
+    _do_configure_registries(registries, cascade)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 4259, in _do_configure_registries
+    mapper._post_configure_properties()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 2418, in _post_configure_properties
+    prop.init()
+    ~~~~~~~~~^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\interfaces.py", line 595, in init
+    self.do_init()
+    ~~~~~~~~~~~~^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\relationships.py", line 1655, in do_init
+    self._setup_entity()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\relationships.py", line 1865, in _setup_entity
+    self._clsregistry_resolve_name(argument)(),
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\clsregistry.py", line 520, in _resolve_name
+    self._raise_for_name(name, err)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\clsregistry.py", line 501, in _raise_for_name
+    raise exc.InvalidRequestError(
+    ...<5 lines>...
+    ) from err
+sqlalchemy.exc.InvalidRequestError: When initializing mapper Mapper[User(users)], expression 'Note' failed to locate a name ('Note'). If this is a class name, consider adding this relationship() to the <class 'model.user.User'> class after both dependent classes have been defined.
+2025-12-22 16:00:16,183 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-22 16:00:16,184 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-22 16:00:16,184 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
+2025-12-22 16:00:16,440 - aiogram.dispatcher - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
+2025-12-22 16:00:22,738 - aiogram.event - INFO - Update id=370042030 is not handled. Duration 172 ms by bot id=8274456690
+2025-12-22 16:00:22,739 - aiogram.event - ERROR - Cause exception while process update id=370042030 by bot id=8274456690
+InvalidRequestError: When initializing mapper Mapper[User(users)], expression 'Note' failed to locate a name ('Note'). If this is a class name, consider adding this relationship() to the <class 'model.user.User'> class after both dependent classes have been defined.
+Traceback (most recent call last):
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\clsregistry.py", line 516, in _resolve_name
+    rval = d[token]
+           ~^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\util\_collections.py", line 345, in __missing__
+    self[key] = val = self.creator(key)
+                      ~~~~~~~~~~~~^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\clsregistry.py", line 484, in _access_cls
+    return self.fallback[key]
+           ~~~~~~~~~~~~~^^^^^
+KeyError: 'Note'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 143, in __init__
-    self._dbapi_connection = engine.raw_connection()
-                             ^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 3301, in raw_connection
-    return self.pool.connect()
-           ^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 447, in connect
-    return _ConnectionFairy._checkout(self)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 1264, in _checkout
-    fairy = _ConnectionRecord.checkout(pool)
-            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 711, in checkout
-    rec = pool._do_get()
-          ^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\impl.py", line 177, in _do_get
-    with util.safe_reraise():
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 224, in __exit__
-    raise exc_value.with_traceback(exc_tb)
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\impl.py", line 175, in _do_get
-    return self._create_connection()
-           ^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 388, in _create_connection
-    return _ConnectionRecord(self)
-           ^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 673, in __init__
-    self.__connect()
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 899, in __connect
-    with util.safe_reraise():
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 224, in __exit__
-    raise exc_value.with_traceback(exc_tb)
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\pool\base.py", line 895, in __connect
-    self.dbapi_connection = connection = pool._invoke_creator(self)
-                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\engine\create.py", line 661, in connect
-    return dialect.connect(*cargs, **cparams)
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\engine\default.py", line 629, in connect
-    return self.loaded_dbapi.connect(*cargs, **cparams)  # type: ignore[no-any-return]  # NOQA: E501
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 955, in connect
-    await_only(creator_fn(*arg, **kw)),
-    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 132, in await_only
-    return current.parent.switch(awaitable)  # type: ignore[no-any-return,attr-defined] # noqa: E501
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 196, in greenlet_spawn
-    value = await result
-            ^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\asyncpg\connection.py", line 2421, in connect
-    return await connect_utils._connect(
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\asyncpg\connect_utils.py", line 1049, in _connect
-    conn = await _connect_addr(
-           ^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\asyncpg\connect_utils.py", line 886, in _connect_addr
-    return await __connect_addr(params, True, *args)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Users\user\Desktop\Exam\MentalCare_Bot\venv\Lib\site-packages\asyncpg\connect_utils.py", line 934, in __connect_addr
-    await connected
-asyncpg.exceptions.InvalidPasswordError: password authentication failed for user "postgres"
-2025-12-22 02:53:40,504 - aiogram.dispatcher - INFO - Polling stopped
-2025-12-22 02:53:40,506 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
-2025-12-22 02:53:40,506 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
-2025-12-22 02:53:40,767 - aiogram.dispatcher - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
+  File "D:\SS Sanjar\python\V_bot\midlewares\logging.py", line 26, in __call__
+    response = await handler(event, data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\midlewares\auth.py", line 25, in __call__
+    user = await manager.get_or_create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\manager\user.py", line 38, in get_or_create
+    user = await self.get(user_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\manager\user.py", line 23, in get
+    result = await self.db.execute(stmt)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\ext\asyncio\session.py", line 449, in execute
+    result = await greenlet_spawn(
+             ^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 203, in greenlet_spawn
+    result = context.switch(value)
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2351, in execute
+    return self._execute_internal(
+           ~~~~~~~~~~~~~~~~~~~~~~^
+        statement,
+        ^^^^^^^^^^
+    ...<4 lines>...
+        _add_event=_add_event,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2249, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<4 lines>...
+        conn,
+        ^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 306, in orm_execute_statement
+    result = conn.execute(
+        statement, params or {}, execution_options=execution_options
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1419, in execute
+    return meth(
+        self,
+        distilled_parameters,
+        execution_options or NO_OPTIONS,
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 526, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self, distilled_params, execution_options
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1633, in _execute_clauseelement
+    compiled_sql, extracted_params, cache_hit = elem._compile_w_cache(
+                                                ~~~~~~~~~~~~~~~~~~~~~^
+        dialect=dialect,
+        ^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+        linting=self.dialect.compiler_linting | compiler.WARN_LINTING,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 715, in _compile_w_cache
+    compiled_sql = self._compiler(
+        dialect,
+    ...<4 lines>...
+        **kw,
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 323, in _compiler
+    return dialect.statement_compiler(dialect, self, **kw)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 1446, in __init__
+    Compiled.__init__(self, dialect, statement, **kwargs)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 886, in __init__
+    self.string = self.process(self.statement, **compile_kwargs)
+                  ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 932, in process
+    return obj._compiler_dispatch(self, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\visitors.py", line 138, in _compiler_dispatch
+    return meth(self, **kw)  # type: ignore  # noqa: E501
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 4781, in visit_select
+    compile_state = select_stmt._compile_state_factory(
+        select_stmt, self, **kwargs
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\base.py", line 701, in create_for_statement
+    return klass.create_for_statement(statement, compiler, **kw)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 447, in create_for_statement
+    return cls._create_orm_context(
+           ~~~~~~~~~~~~~~~~~~~~~~~^
+        cast("Union[Select, FromStatement]", statement),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        **kw,
+        ^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 1175, in _create_orm_context
+    _QueryEntity.to_compile_state(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<2 lines>...
+        is_current_entities=True,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 2628, in to_compile_state
+    _MapperEntity(
+    ~~~~~~~~~~~~~^
+        compile_state,
+        ^^^^^^^^^^^^^^
+    ...<2 lines>...
+        is_current_entities,
+        ^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 2708, in __init__
+    entity._post_inspect
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 1338, in __get__
+    obj.__dict__[self.__name__] = result = self.fget(obj)
+                                           ~~~~~~~~~^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 2724, in _post_inspect
+    self._check_configure()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 2401, in _check_configure
+    _configure_registries({self.registry}, cascade=True)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 4218, in _configure_registries
+    _do_configure_registries(registries, cascade)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 4259, in _do_configure_registries
+    mapper._post_configure_properties()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 2418, in _post_configure_properties
+    prop.init()
+    ~~~~~~~~~^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\interfaces.py", line 595, in init
+    self.do_init()
+    ~~~~~~~~~~~~^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\relationships.py", line 1655, in do_init
+    self._setup_entity()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\relationships.py", line 1865, in _setup_entity
+    self._clsregistry_resolve_name(argument)(),
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\clsregistry.py", line 520, in _resolve_name
+    self._raise_for_name(name, err)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\clsregistry.py", line 501, in _raise_for_name
+    raise exc.InvalidRequestError(
+    ...<5 lines>...
+    ) from err
+sqlalchemy.exc.InvalidRequestError: When initializing mapper Mapper[User(users)], expression 'Note' failed to locate a name ('Note'). If this is a class name, consider adding this relationship() to the <class 'model.user.User'> class after both dependent classes have been defined.
+2025-12-22 16:00:31,571 - aiogram.event - INFO - Update id=370042031 is not handled. Duration 2 ms by bot id=8274456690
+2025-12-22 16:00:31,571 - aiogram.event - ERROR - Cause exception while process update id=370042031 by bot id=8274456690
+InvalidRequestError: One or more mappers failed to initialize - can't proceed with initialization of other mappers. Triggering mapper: 'Mapper[User(users)]'. Original exception was: When initializing mapper Mapper[User(users)], expression 'Note' failed to locate a name ('Note'). If this is a class name, consider adding this relationship() to the <class 'model.user.User'> class after both dependent classes have been defined.
+Traceback (most recent call last):
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\midlewares\logging.py", line 26, in __call__
+    response = await handler(event, data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\midlewares\auth.py", line 25, in __call__
+    user = await manager.get_or_create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\manager\user.py", line 38, in get_or_create
+    user = await self.get(user_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\manager\user.py", line 23, in get
+    result = await self.db.execute(stmt)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\ext\asyncio\session.py", line 449, in execute
+    result = await greenlet_spawn(
+             ^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 203, in greenlet_spawn
+    result = context.switch(value)
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2351, in execute
+    return self._execute_internal(
+           ~~~~~~~~~~~~~~~~~~~~~~^
+        statement,
+        ^^^^^^^^^^
+    ...<4 lines>...
+        _add_event=_add_event,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2249, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<4 lines>...
+        conn,
+        ^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 306, in orm_execute_statement
+    result = conn.execute(
+        statement, params or {}, execution_options=execution_options
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1419, in execute
+    return meth(
+        self,
+        distilled_parameters,
+        execution_options or NO_OPTIONS,
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 526, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self, distilled_params, execution_options
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1633, in _execute_clauseelement
+    compiled_sql, extracted_params, cache_hit = elem._compile_w_cache(
+                                                ~~~~~~~~~~~~~~~~~~~~~^
+        dialect=dialect,
+        ^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+        linting=self.dialect.compiler_linting | compiler.WARN_LINTING,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 715, in _compile_w_cache
+    compiled_sql = self._compiler(
+        dialect,
+    ...<4 lines>...
+        **kw,
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 323, in _compiler
+    return dialect.statement_compiler(dialect, self, **kw)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 1446, in __init__
+    Compiled.__init__(self, dialect, statement, **kwargs)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 886, in __init__
+    self.string = self.process(self.statement, **compile_kwargs)
+                  ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 932, in process
+    return obj._compiler_dispatch(self, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\visitors.py", line 138, in _compiler_dispatch
+    return meth(self, **kw)  # type: ignore  # noqa: E501
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 4781, in visit_select
+    compile_state = select_stmt._compile_state_factory(
+        select_stmt, self, **kwargs
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\base.py", line 701, in create_for_statement
+    return klass.create_for_statement(statement, compiler, **kw)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 447, in create_for_statement
+    return cls._create_orm_context(
+           ~~~~~~~~~~~~~~~~~~~~~~~^
+        cast("Union[Select, FromStatement]", statement),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        **kw,
+        ^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 1175, in _create_orm_context
+    _QueryEntity.to_compile_state(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<2 lines>...
+        is_current_entities=True,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 2628, in to_compile_state
+    _MapperEntity(
+    ~~~~~~~~~~~~~^
+        compile_state,
+        ^^^^^^^^^^^^^^
+    ...<2 lines>...
+        is_current_entities,
+        ^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 2708, in __init__
+    entity._post_inspect
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 1338, in __get__
+    obj.__dict__[self.__name__] = result = self.fget(obj)
+                                           ~~~~~~~~~^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 2724, in _post_inspect
+    self._check_configure()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 2401, in _check_configure
+    _configure_registries({self.registry}, cascade=True)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 4218, in _configure_registries
+    _do_configure_registries(registries, cascade)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 4255, in _do_configure_registries
+    raise e
+sqlalchemy.exc.InvalidRequestError: One or more mappers failed to initialize - can't proceed with initialization of other mappers. Triggering mapper: 'Mapper[User(users)]'. Original exception was: When initializing mapper Mapper[User(users)], expression 'Note' failed to locate a name ('Note'). If this is a class name, consider adding this relationship() to the <class 'model.user.User'> class after both dependent classes have been defined.
+2025-12-22 16:00:36,391 - aiogram.event - INFO - Update id=370042032 is not handled. Duration 3 ms by bot id=8274456690
+2025-12-22 16:00:36,392 - aiogram.event - ERROR - Cause exception while process update id=370042032 by bot id=8274456690
+InvalidRequestError: One or more mappers failed to initialize - can't proceed with initialization of other mappers. Triggering mapper: 'Mapper[User(users)]'. Original exception was: When initializing mapper Mapper[User(users)], expression 'Note' failed to locate a name ('Note'). If this is a class name, consider adding this relationship() to the <class 'model.user.User'> class after both dependent classes have been defined.
+Traceback (most recent call last):
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\midlewares\logging.py", line 26, in __call__
+    response = await handler(event, data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\midlewares\auth.py", line 25, in __call__
+    user = await manager.get_or_create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\manager\user.py", line 38, in get_or_create
+    user = await self.get(user_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\manager\user.py", line 23, in get
+    result = await self.db.execute(stmt)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\ext\asyncio\session.py", line 449, in execute
+    result = await greenlet_spawn(
+             ^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 203, in greenlet_spawn
+    result = context.switch(value)
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2351, in execute
+    return self._execute_internal(
+           ~~~~~~~~~~~~~~~~~~~~~~^
+        statement,
+        ^^^^^^^^^^
+    ...<4 lines>...
+        _add_event=_add_event,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2249, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<4 lines>...
+        conn,
+        ^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 306, in orm_execute_statement
+    result = conn.execute(
+        statement, params or {}, execution_options=execution_options
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1419, in execute
+    return meth(
+        self,
+        distilled_parameters,
+        execution_options or NO_OPTIONS,
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 526, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self, distilled_params, execution_options
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1633, in _execute_clauseelement
+    compiled_sql, extracted_params, cache_hit = elem._compile_w_cache(
+                                                ~~~~~~~~~~~~~~~~~~~~~^
+        dialect=dialect,
+        ^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+        linting=self.dialect.compiler_linting | compiler.WARN_LINTING,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 715, in _compile_w_cache
+    compiled_sql = self._compiler(
+        dialect,
+    ...<4 lines>...
+        **kw,
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 323, in _compiler
+    return dialect.statement_compiler(dialect, self, **kw)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 1446, in __init__
+    Compiled.__init__(self, dialect, statement, **kwargs)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 886, in __init__
+    self.string = self.process(self.statement, **compile_kwargs)
+                  ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 932, in process
+    return obj._compiler_dispatch(self, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\visitors.py", line 138, in _compiler_dispatch
+    return meth(self, **kw)  # type: ignore  # noqa: E501
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 4781, in visit_select
+    compile_state = select_stmt._compile_state_factory(
+        select_stmt, self, **kwargs
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\base.py", line 701, in create_for_statement
+    return klass.create_for_statement(statement, compiler, **kw)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 447, in create_for_statement
+    return cls._create_orm_context(
+           ~~~~~~~~~~~~~~~~~~~~~~~^
+        cast("Union[Select, FromStatement]", statement),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        **kw,
+        ^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 1175, in _create_orm_context
+    _QueryEntity.to_compile_state(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<2 lines>...
+        is_current_entities=True,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 2628, in to_compile_state
+    _MapperEntity(
+    ~~~~~~~~~~~~~^
+        compile_state,
+        ^^^^^^^^^^^^^^
+    ...<2 lines>...
+        is_current_entities,
+        ^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 2708, in __init__
+    entity._post_inspect
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 1338, in __get__
+    obj.__dict__[self.__name__] = result = self.fget(obj)
+                                           ~~~~~~~~~^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 2724, in _post_inspect
+    self._check_configure()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 2401, in _check_configure
+    _configure_registries({self.registry}, cascade=True)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 4218, in _configure_registries
+    _do_configure_registries(registries, cascade)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 4255, in _do_configure_registries
+    raise e
+sqlalchemy.exc.InvalidRequestError: One or more mappers failed to initialize - can't proceed with initialization of other mappers. Triggering mapper: 'Mapper[User(users)]'. Original exception was: When initializing mapper Mapper[User(users)], expression 'Note' failed to locate a name ('Note'). If this is a class name, consider adding this relationship() to the <class 'model.user.User'> class after both dependent classes have been defined.
+2025-12-22 16:00:49,084 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-22 16:00:49,086 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-22 16:00:49,086 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
+2025-12-22 16:00:49,350 - aiogram.dispatcher - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
+2025-12-22 16:00:54,579 - aiogram.event - INFO - Update id=370042033 is not handled. Duration 104 ms by bot id=8274456690
+2025-12-22 16:00:54,579 - aiogram.event - ERROR - Cause exception while process update id=370042033 by bot id=8274456690
+InvalidRequestError: When initializing mapper Mapper[User(users)], expression 'Note' failed to locate a name ('Note'). If this is a class name, consider adding this relationship() to the <class 'model.user.User'> class after both dependent classes have been defined.
+Traceback (most recent call last):
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\clsregistry.py", line 516, in _resolve_name
+    rval = d[token]
+           ~^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\util\_collections.py", line 345, in __missing__
+    self[key] = val = self.creator(key)
+                      ~~~~~~~~~~~~^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\clsregistry.py", line 484, in _access_cls
+    return self.fallback[key]
+           ~~~~~~~~~~~~~^^^^^
+KeyError: 'Note'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\midlewares\logging.py", line 26, in __call__
+    response = await handler(event, data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\midlewares\auth.py", line 25, in __call__
+    user = await manager.get_or_create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\manager\user.py", line 38, in get_or_create
+    user = await self.get(user_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\manager\user.py", line 23, in get
+    result = await self.db.execute(stmt)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\ext\asyncio\session.py", line 449, in execute
+    result = await greenlet_spawn(
+             ^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 203, in greenlet_spawn
+    result = context.switch(value)
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2351, in execute
+    return self._execute_internal(
+           ~~~~~~~~~~~~~~~~~~~~~~^
+        statement,
+        ^^^^^^^^^^
+    ...<4 lines>...
+        _add_event=_add_event,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2249, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<4 lines>...
+        conn,
+        ^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 306, in orm_execute_statement
+    result = conn.execute(
+        statement, params or {}, execution_options=execution_options
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1419, in execute
+    return meth(
+        self,
+        distilled_parameters,
+        execution_options or NO_OPTIONS,
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 526, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self, distilled_params, execution_options
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1633, in _execute_clauseelement
+    compiled_sql, extracted_params, cache_hit = elem._compile_w_cache(
+                                                ~~~~~~~~~~~~~~~~~~~~~^
+        dialect=dialect,
+        ^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+        linting=self.dialect.compiler_linting | compiler.WARN_LINTING,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 715, in _compile_w_cache
+    compiled_sql = self._compiler(
+        dialect,
+    ...<4 lines>...
+        **kw,
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 323, in _compiler
+    return dialect.statement_compiler(dialect, self, **kw)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 1446, in __init__
+    Compiled.__init__(self, dialect, statement, **kwargs)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 886, in __init__
+    self.string = self.process(self.statement, **compile_kwargs)
+                  ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 932, in process
+    return obj._compiler_dispatch(self, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\visitors.py", line 138, in _compiler_dispatch
+    return meth(self, **kw)  # type: ignore  # noqa: E501
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 4781, in visit_select
+    compile_state = select_stmt._compile_state_factory(
+        select_stmt, self, **kwargs
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\base.py", line 701, in create_for_statement
+    return klass.create_for_statement(statement, compiler, **kw)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 447, in create_for_statement
+    return cls._create_orm_context(
+           ~~~~~~~~~~~~~~~~~~~~~~~^
+        cast("Union[Select, FromStatement]", statement),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        **kw,
+        ^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 1175, in _create_orm_context
+    _QueryEntity.to_compile_state(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<2 lines>...
+        is_current_entities=True,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 2628, in to_compile_state
+    _MapperEntity(
+    ~~~~~~~~~~~~~^
+        compile_state,
+        ^^^^^^^^^^^^^^
+    ...<2 lines>...
+        is_current_entities,
+        ^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 2708, in __init__
+    entity._post_inspect
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 1338, in __get__
+    obj.__dict__[self.__name__] = result = self.fget(obj)
+                                           ~~~~~~~~~^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 2724, in _post_inspect
+    self._check_configure()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 2401, in _check_configure
+    _configure_registries({self.registry}, cascade=True)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 4218, in _configure_registries
+    _do_configure_registries(registries, cascade)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 4259, in _do_configure_registries
+    mapper._post_configure_properties()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 2418, in _post_configure_properties
+    prop.init()
+    ~~~~~~~~~^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\interfaces.py", line 595, in init
+    self.do_init()
+    ~~~~~~~~~~~~^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\relationships.py", line 1655, in do_init
+    self._setup_entity()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\relationships.py", line 1865, in _setup_entity
+    self._clsregistry_resolve_name(argument)(),
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\clsregistry.py", line 520, in _resolve_name
+    self._raise_for_name(name, err)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\clsregistry.py", line 501, in _raise_for_name
+    raise exc.InvalidRequestError(
+    ...<5 lines>...
+    ) from err
+sqlalchemy.exc.InvalidRequestError: When initializing mapper Mapper[User(users)], expression 'Note' failed to locate a name ('Note'). If this is a class name, consider adding this relationship() to the <class 'model.user.User'> class after both dependent classes have been defined.
+2025-12-22 16:07:43,940 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-22 16:07:43,941 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-22 16:07:43,941 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
+2025-12-22 16:07:44,193 - aiogram.dispatcher - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
+2025-12-22 16:07:51,424 - aiogram.event - INFO - Update id=370042034 is not handled. Duration 251 ms by bot id=8274456690
+2025-12-22 16:07:51,424 - aiogram.event - ERROR - Cause exception while process update id=370042034 by bot id=8274456690
+InvalidRequestError: When initializing mapper Mapper[User(users)], expression 'Note' failed to locate a name ('Note'). If this is a class name, consider adding this relationship() to the <class 'model.user.User'> class after both dependent classes have been defined.
+Traceback (most recent call last):
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\clsregistry.py", line 516, in _resolve_name
+    rval = d[token]
+           ~^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\util\_collections.py", line 345, in __missing__
+    self[key] = val = self.creator(key)
+                      ~~~~~~~~~~~~^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\clsregistry.py", line 484, in _access_cls
+    return self.fallback[key]
+           ~~~~~~~~~~~~~^^^^^
+KeyError: 'Note'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\midlewares\logging.py", line 26, in __call__
+    response = await handler(event, data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\midlewares\auth.py", line 25, in __call__
+    user = await manager.get_or_create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\manager\user.py", line 38, in get_or_create
+    user = await self.get(user_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\manager\user.py", line 23, in get
+    result = await self.db.execute(stmt)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\ext\asyncio\session.py", line 449, in execute
+    result = await greenlet_spawn(
+             ^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 203, in greenlet_spawn
+    result = context.switch(value)
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2351, in execute
+    return self._execute_internal(
+           ~~~~~~~~~~~~~~~~~~~~~~^
+        statement,
+        ^^^^^^^^^^
+    ...<4 lines>...
+        _add_event=_add_event,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2249, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<4 lines>...
+        conn,
+        ^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 306, in orm_execute_statement
+    result = conn.execute(
+        statement, params or {}, execution_options=execution_options
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1419, in execute
+    return meth(
+        self,
+        distilled_parameters,
+        execution_options or NO_OPTIONS,
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 526, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self, distilled_params, execution_options
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1633, in _execute_clauseelement
+    compiled_sql, extracted_params, cache_hit = elem._compile_w_cache(
+                                                ~~~~~~~~~~~~~~~~~~~~~^
+        dialect=dialect,
+        ^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+        linting=self.dialect.compiler_linting | compiler.WARN_LINTING,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 715, in _compile_w_cache
+    compiled_sql = self._compiler(
+        dialect,
+    ...<4 lines>...
+        **kw,
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 323, in _compiler
+    return dialect.statement_compiler(dialect, self, **kw)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 1446, in __init__
+    Compiled.__init__(self, dialect, statement, **kwargs)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 886, in __init__
+    self.string = self.process(self.statement, **compile_kwargs)
+                  ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 932, in process
+    return obj._compiler_dispatch(self, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\visitors.py", line 138, in _compiler_dispatch
+    return meth(self, **kw)  # type: ignore  # noqa: E501
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 4781, in visit_select
+    compile_state = select_stmt._compile_state_factory(
+        select_stmt, self, **kwargs
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\base.py", line 701, in create_for_statement
+    return klass.create_for_statement(statement, compiler, **kw)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 447, in create_for_statement
+    return cls._create_orm_context(
+           ~~~~~~~~~~~~~~~~~~~~~~~^
+        cast("Union[Select, FromStatement]", statement),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        **kw,
+        ^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 1175, in _create_orm_context
+    _QueryEntity.to_compile_state(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<2 lines>...
+        is_current_entities=True,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 2628, in to_compile_state
+    _MapperEntity(
+    ~~~~~~~~~~~~~^
+        compile_state,
+        ^^^^^^^^^^^^^^
+    ...<2 lines>...
+        is_current_entities,
+        ^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 2708, in __init__
+    entity._post_inspect
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 1338, in __get__
+    obj.__dict__[self.__name__] = result = self.fget(obj)
+                                           ~~~~~~~~~^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 2724, in _post_inspect
+    self._check_configure()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 2401, in _check_configure
+    _configure_registries({self.registry}, cascade=True)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 4218, in _configure_registries
+    _do_configure_registries(registries, cascade)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 4259, in _do_configure_registries
+    mapper._post_configure_properties()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 2418, in _post_configure_properties
+    prop.init()
+    ~~~~~~~~~^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\interfaces.py", line 595, in init
+    self.do_init()
+    ~~~~~~~~~~~~^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\relationships.py", line 1655, in do_init
+    self._setup_entity()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\relationships.py", line 1865, in _setup_entity
+    self._clsregistry_resolve_name(argument)(),
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\clsregistry.py", line 520, in _resolve_name
+    self._raise_for_name(name, err)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\clsregistry.py", line 501, in _raise_for_name
+    raise exc.InvalidRequestError(
+    ...<5 lines>...
+    ) from err
+sqlalchemy.exc.InvalidRequestError: When initializing mapper Mapper[User(users)], expression 'Note' failed to locate a name ('Note'). If this is a class name, consider adding this relationship() to the <class 'model.user.User'> class after both dependent classes have been defined.
+2025-12-22 16:09:05,323 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-22 16:09:05,324 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-22 16:09:05,324 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
+2025-12-22 16:09:05,583 - aiogram.dispatcher - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
+2025-12-22 16:09:10,366 - aiogram.event - INFO - Update id=370042035 is not handled. Duration 140 ms by bot id=8274456690
+2025-12-22 16:09:10,366 - aiogram.event - ERROR - Cause exception while process update id=370042035 by bot id=8274456690
+ArgumentError: relationship 'notes' expects a class or a mapper argument (received: <class 'sqlalchemy.sql.schema.Table'>)
+Traceback (most recent call last):
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\midlewares\logging.py", line 26, in __call__
+    response = await handler(event, data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\midlewares\auth.py", line 25, in __call__
+    user = await manager.get_or_create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\manager\user.py", line 38, in get_or_create
+    user = await self.get(user_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\manager\user.py", line 23, in get
+    result = await self.db.execute(stmt)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\ext\asyncio\session.py", line 449, in execute
+    result = await greenlet_spawn(
+             ^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 203, in greenlet_spawn
+    result = context.switch(value)
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2351, in execute
+    return self._execute_internal(
+           ~~~~~~~~~~~~~~~~~~~~~~^
+        statement,
+        ^^^^^^^^^^
+    ...<4 lines>...
+        _add_event=_add_event,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2249, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<4 lines>...
+        conn,
+        ^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 306, in orm_execute_statement
+    result = conn.execute(
+        statement, params or {}, execution_options=execution_options
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1419, in execute
+    return meth(
+        self,
+        distilled_parameters,
+        execution_options or NO_OPTIONS,
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 526, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self, distilled_params, execution_options
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1633, in _execute_clauseelement
+    compiled_sql, extracted_params, cache_hit = elem._compile_w_cache(
+                                                ~~~~~~~~~~~~~~~~~~~~~^
+        dialect=dialect,
+        ^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+        linting=self.dialect.compiler_linting | compiler.WARN_LINTING,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 715, in _compile_w_cache
+    compiled_sql = self._compiler(
+        dialect,
+    ...<4 lines>...
+        **kw,
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 323, in _compiler
+    return dialect.statement_compiler(dialect, self, **kw)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 1446, in __init__
+    Compiled.__init__(self, dialect, statement, **kwargs)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 886, in __init__
+    self.string = self.process(self.statement, **compile_kwargs)
+                  ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 932, in process
+    return obj._compiler_dispatch(self, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\visitors.py", line 138, in _compiler_dispatch
+    return meth(self, **kw)  # type: ignore  # noqa: E501
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 4781, in visit_select
+    compile_state = select_stmt._compile_state_factory(
+        select_stmt, self, **kwargs
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\base.py", line 701, in create_for_statement
+    return klass.create_for_statement(statement, compiler, **kw)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 447, in create_for_statement
+    return cls._create_orm_context(
+           ~~~~~~~~~~~~~~~~~~~~~~~^
+        cast("Union[Select, FromStatement]", statement),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        **kw,
+        ^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 1175, in _create_orm_context
+    _QueryEntity.to_compile_state(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<2 lines>...
+        is_current_entities=True,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 2628, in to_compile_state
+    _MapperEntity(
+    ~~~~~~~~~~~~~^
+        compile_state,
+        ^^^^^^^^^^^^^^
+    ...<2 lines>...
+        is_current_entities,
+        ^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 2708, in __init__
+    entity._post_inspect
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 1338, in __get__
+    obj.__dict__[self.__name__] = result = self.fget(obj)
+                                           ~~~~~~~~~^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 2724, in _post_inspect
+    self._check_configure()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 2401, in _check_configure
+    _configure_registries({self.registry}, cascade=True)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 4218, in _configure_registries
+    _do_configure_registries(registries, cascade)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 4259, in _do_configure_registries
+    mapper._post_configure_properties()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 2418, in _post_configure_properties
+    prop.init()
+    ~~~~~~~~~^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\interfaces.py", line 595, in init
+    self.do_init()
+    ~~~~~~~~~~~~^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\relationships.py", line 1655, in do_init
+    self._setup_entity()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\relationships.py", line 1885, in _setup_entity
+    raise sa_exc.ArgumentError(
+    ...<3 lines>...
+    )
+sqlalchemy.exc.ArgumentError: relationship 'notes' expects a class or a mapper argument (received: <class 'sqlalchemy.sql.schema.Table'>)
+2025-12-22 16:10:35,596 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-22 16:10:35,597 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-22 16:10:35,597 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
+2025-12-22 16:10:35,850 - aiogram.dispatcher - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'
+2025-12-22 16:10:43,022 - aiogram.event - INFO - Update id=370042036 is not handled. Duration 137 ms by bot id=8274456690
+2025-12-22 16:10:43,022 - aiogram.event - ERROR - Cause exception while process update id=370042036 by bot id=8274456690
+InvalidRequestError: When initializing mapper Mapper[User(users)], expression 'Note' failed to locate a name ('Note'). If this is a class name, consider adding this relationship() to the <class 'model.user.User'> class after both dependent classes have been defined.
+Traceback (most recent call last):
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\clsregistry.py", line 516, in _resolve_name
+    rval = d[token]
+           ~^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\util\_collections.py", line 345, in __missing__
+    self[key] = val = self.creator(key)
+                      ~~~~~~~~~~~~^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\clsregistry.py", line 484, in _access_cls
+    return self.fallback[key]
+           ~~~~~~~~~~~~~^^^^^
+KeyError: 'Note'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\midlewares\logging.py", line 26, in __call__
+    response = await handler(event, data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\midlewares\auth.py", line 25, in __call__
+    user = await manager.get_or_create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\manager\user.py", line 38, in get_or_create
+    user = await self.get(user_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\manager\user.py", line 23, in get
+    result = await self.db.execute(stmt)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\ext\asyncio\session.py", line 449, in execute
+    result = await greenlet_spawn(
+             ^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 203, in greenlet_spawn
+    result = context.switch(value)
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2351, in execute
+    return self._execute_internal(
+           ~~~~~~~~~~~~~~~~~~~~~~^
+        statement,
+        ^^^^^^^^^^
+    ...<4 lines>...
+        _add_event=_add_event,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2249, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<4 lines>...
+        conn,
+        ^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 306, in orm_execute_statement
+    result = conn.execute(
+        statement, params or {}, execution_options=execution_options
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1419, in execute
+    return meth(
+        self,
+        distilled_parameters,
+        execution_options or NO_OPTIONS,
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 526, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self, distilled_params, execution_options
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1633, in _execute_clauseelement
+    compiled_sql, extracted_params, cache_hit = elem._compile_w_cache(
+                                                ~~~~~~~~~~~~~~~~~~~~~^
+        dialect=dialect,
+        ^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+        linting=self.dialect.compiler_linting | compiler.WARN_LINTING,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 715, in _compile_w_cache
+    compiled_sql = self._compiler(
+        dialect,
+    ...<4 lines>...
+        **kw,
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 323, in _compiler
+    return dialect.statement_compiler(dialect, self, **kw)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 1446, in __init__
+    Compiled.__init__(self, dialect, statement, **kwargs)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 886, in __init__
+    self.string = self.process(self.statement, **compile_kwargs)
+                  ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 932, in process
+    return obj._compiler_dispatch(self, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\visitors.py", line 138, in _compiler_dispatch
+    return meth(self, **kw)  # type: ignore  # noqa: E501
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\compiler.py", line 4781, in visit_select
+    compile_state = select_stmt._compile_state_factory(
+        select_stmt, self, **kwargs
+    )
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\sql\base.py", line 701, in create_for_statement
+    return klass.create_for_statement(statement, compiler, **kw)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 447, in create_for_statement
+    return cls._create_orm_context(
+           ~~~~~~~~~~~~~~~~~~~~~~~^
+        cast("Union[Select, FromStatement]", statement),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        **kw,
+        ^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 1175, in _create_orm_context
+    _QueryEntity.to_compile_state(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<2 lines>...
+        is_current_entities=True,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 2628, in to_compile_state
+    _MapperEntity(
+    ~~~~~~~~~~~~~^
+        compile_state,
+        ^^^^^^^^^^^^^^
+    ...<2 lines>...
+        is_current_entities,
+        ^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 2708, in __init__
+    entity._post_inspect
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\util\langhelpers.py", line 1338, in __get__
+    obj.__dict__[self.__name__] = result = self.fget(obj)
+                                           ~~~~~~~~~^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 2724, in _post_inspect
+    self._check_configure()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 2401, in _check_configure
+    _configure_registries({self.registry}, cascade=True)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 4218, in _configure_registries
+    _do_configure_registries(registries, cascade)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 4259, in _do_configure_registries
+    mapper._post_configure_properties()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\mapper.py", line 2418, in _post_configure_properties
+    prop.init()
+    ~~~~~~~~~^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\interfaces.py", line 595, in init
+    self.do_init()
+    ~~~~~~~~~~~~^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\relationships.py", line 1655, in do_init
+    self._setup_entity()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\relationships.py", line 1865, in _setup_entity
+    self._clsregistry_resolve_name(argument)(),
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\clsregistry.py", line 520, in _resolve_name
+    self._raise_for_name(name, err)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "D:\SS Sanjar\python\V_bot\venv\Lib\site-packages\sqlalchemy\orm\clsregistry.py", line 501, in _raise_for_name
+    raise exc.InvalidRequestError(
+    ...<5 lines>...
+    ) from err
+sqlalchemy.exc.InvalidRequestError: When initializing mapper Mapper[User(users)], expression 'Note' failed to locate a name ('Note'). If this is a class name, consider adding this relationship() to the <class 'model.user.User'> class after both dependent classes have been defined.
+2025-12-22 16:11:11,867 - aiogram.dispatcher - INFO - Polling stopped
+2025-12-22 16:11:11,868 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-12-22 16:11:11,868 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8274456690)
+2025-12-22 16:11:12,126 - aiogram.dispatcher - INFO - Polling stopped for bot @Project_MentalCareBot id=8274456690 - 'MentalCare+'

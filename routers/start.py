@@ -4,7 +4,8 @@ from aiogram.fsm.context import FSMContext
 from aiogram.types import Message, CallbackQuery
 
 
-from keyboards.client import start_kb, get_back, test_kb, help_kb, specialists_kb, appointments_kb, my_notes_kb
+from keyboards.start import start_kb
+from model import User
 
 from state.client import ClientForm, HelpMeForm, SpecialistsForm, AppointmentsForm, MyNoticeForm
 
@@ -12,8 +13,8 @@ router = Router()
 
 
 @router.message(CommandStart())
-async def start_handler(message: Message):
+async def start_handler(message: Message, user: User):
     await message.answer(
-        "Welcome to MentalCare+! 💙\n Choose an action:",
-        reply_markup=start_kb()
+        f"Welcome to MentalCare+ {user.full_name} {user.role} ! 💙\n Choose an action:",
+        reply_markup=start_kb(user.role)
     )

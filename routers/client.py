@@ -1,140 +1,115 @@
-# from aiogram import  Router
-# from aiogram.filters import CommandStart, Command
-# from aiogram.types import Message
-# from aiogram.fsm.context import FSMContext
-#
-# from keyboards.client import start_kb, get_back
-#
-#
-# router = Router()
-#
-#
-# @router.message(CommandStart())
-# async def start_handler(message: Message, state: FSMContext):
-#     await state.clear()
-#     await message.answer("Welcome to MentalCare+!💙\n", reply_markup=start_kb())
-#
-
-
-
-
-
-
 from aiogram import Router, F
-from aiogram.filters import CommandStart
 from aiogram.fsm.context import FSMContext
-from aiogram.types import Message, CallbackQuery
+from aiogram.types import CallbackQuery, Message
+from sqlalchemy.ext.asyncio import async_session
 
-
-from keyboards.client import start_kb, get_back, test_kb, help_kb, specialists_kb, appointments_kb, my_notes_kb
-
-from state.client import ClientForm, HelpMeForm, SpecialistsForm, AppointmentsForm, MyNoticeForm
+from keyboards.client import (
+    test_kb, help_kb,
+    specialists_kb, appointments_kb, my_notes_kb, get_back
+)
+from keyboards.start import start_kb as kb
+from manager.notes import NoteManager
+from model import User
+from state.client import (
+    ClientForm, HelpMeForm, SpecialistsForm,
+    AppointmentsForm, MyNoticeForm
+)
 
 router = Router()
 
 
-@router.message(CommandStart())
-async def start_handler(message: Message):
-    await message.answer(
-        "Welcome to MentalCare+! 💙\n Choose an action:",
-        reply_markup=start_kb()
-    )
-
-
-@router.message(F.text == "🧠 Tests")
-async def tests_handler(message: Message, state: FSMContext):
+@router.callback_query(F.data == "user_tests")
+async def menu(cb: CallbackQuery, user: User, state: FSMContext):
     await state.set_state(ClientForm.test_client)
-    await message.answer(
+    await cb.message.edit_text(
         "🧠 Take the tests:",
         reply_markup=test_kb()
     )
 
+
 @router.callback_query(F.data == "client_stress")
-async def test_handler(cb: CallbackQuery, state: FSMContext):
-    await cb.message.answer("""Hi…
-I’m Stress. You probably already know me. Sometimes I slip in unnoticed, sometimes I make my presence loudly felt. I make your heart race, your thoughts get tangled, and sometimes you feel at your limit.
-
-I know, it’s unpleasant… But I’m not your enemy. I’m here to warn you that something needs your attention. I’m a signal that you need to pause, take a deep breath, and give yourself a little time.
-
-You can listen to me, or you can ignore me — the choice is yours. When you take a break, care for yourself, talk to friends, or simply rest, I retreat. And you know what? The more you learn to understand me, the less I scare you.
-
-Let’s make a deal: I’ll be your signal, not your prison. Listen to me, take care of yourself, and we can coexist without destroying your mood or your well-being.""", reply_markup=get_back())
+async def test_stress_handler(cb: CallbackQuery, state: FSMContext):
+    await cb.message.edit_text(
+        "Hi…\n"
+        "I’m Stress. You probably already know me.\n\n"
+        "Sometimes I slip in unnoticed, sometimes I make my presence loudly felt.\n\n"
+        "I’m not your enemy. I’m a signal that something needs your attention.\n\n"
+        "Let’s make a deal: I’ll be your signal, not your prison 🤍",
+        reply_markup=get_back()
+    )
 
 
 @router.callback_query(F.data == "client_burnout")
-async def test_handler(cb: CallbackQuery, state: FSMContext):
-    await cb.message.answer("""🔥 Burnout check:\n"
-        "Burnout is emotional exhaustion caused by prolonged stress.\n"
-        "Signs to watch for:\n"
+async def test_burnout_handler(cb: CallbackQuery, state: FSMContext):
+    await cb.message.edit_text(
+        "🔥 Burnout check:\n\n"
+        "Burnout is emotional exhaustion caused by prolonged stress.\n\n"
+        "Signs:\n"
         "• Constant fatigue\n"
-        "• Loss of interest in work or study\n"
-        "• Feeling irritable or cynical\n\n"
-        "💡 Tip: Take time to rest, enjoy small hobbies, and connect with loved ones.\n"
-        "If symptoms persist, consider consulting a psychologist.""", reply_markup=get_back())
+        "• Loss of interest\n"
+        "• Irritability\n\n"
+        "💡 Tip: Take time to rest and recover.",
+        reply_markup=get_back()
+    )
 
 
 @router.callback_query(F.data == "client_anxiety")
-async def test_handler(cb: CallbackQuery, state: FSMContext):
-    await cb.message.answer("""Anxiety check:\n"
-        "Anxiety is a feeling of worry or fear that can interfere with daily life.\n"
-        "Common signs include:\n"
-        "• Restlessness or feeling on edge\n"
-        "• Rapid heartbeat or sweating\n"
+async def test_anxiety_handler(cb: CallbackQuery, state: FSMContext):
+    await cb.message.edit_text(
+        "😟 Anxiety check:\n\n"
+        "Anxiety can interfere with daily life.\n\n"
+        "Common signs:\n"
+        "• Restlessness\n"
+        "• Rapid heartbeat\n"
         "• Trouble concentrating\n\n"
-        "💡 Tip: Practice deep breathing, short breaks, and mindfulness exercises.\n"
-        "If symptoms persist, consider talking to a psychologist.""", reply_markup=get_back())
+        "💡 Tip: Try breathing exercises and rest.",
+        reply_markup=get_back()
+    )
 
 
-@router.message(F.text == "🆘 Help Me")
-async def help_me_handler(message: Message, state: FSMContext):
+@router.callback_query(F.data == "user_help")
+async def help_menu(cb: CallbackQuery, user: User, state: FSMContext):
     await state.set_state(HelpMeForm.help_me)
-    await message.answer(
+    await cb.message.edit_text(
         "🆘 How can we help you?",
         reply_markup=help_kb()
     )
 
 
-
-
 @router.callback_query(F.data == "sleep_issues")
 async def sleep_issues_handler(cb: CallbackQuery):
-    await cb.message.answer("""💤 Sleep Issues
-
-Having trouble falling asleep or waking up tired is very common,
-especially when you are stressed or overthinking.
-
-Here are some gentle tips that may help tonight:
-
-• Turn off your phone 30 minutes before sleep  
-• Take slow, deep breaths for 1–2 minutes  
-• Try going to bed at the same time every day  
-• Write down your thoughts to clear your mind  
-• Drink warm tea or water (no caffeine)
-
-Remember: one bad night does not mean something is wrong with you.
-Your body knows how to rest 🤍""",
+    await cb.message.edit_text(
+        "💤 Sleep Issues\n\n"
+        "Having trouble sleeping is common.\n\n"
+        "Helpful tips:\n"
+        "• No phone before bed\n"
+        "• Deep breathing\n"
+        "• Same bedtime daily\n"
+        "• Write thoughts down\n\n"
+        "Your body knows how to rest 🤍",
         reply_markup=get_back()
     )
 
+
 @router.callback_query(F.data == "talk_psychologist")
 async def talk_psychologist_handler(cb: CallbackQuery, state: FSMContext):
-    await cb.message.answer("""Need professional help? You can talk to a psychologist:
+    await cb.message.edit_text(
+        "👩‍⚕️ Talk to a psychologist:\n\n"
+        "• Safe space\n"
+        "• Help with stress & anxiety\n"
+        "• Confidential sessions",
+        reply_markup=get_back()
+    )
 
-• Share your feelings safely
-• Get advice for stress, anxiety, or sleep issues
-• Sessions are confidential
 
-Press ⏪ Back to return.""", reply_markup=get_back())
-
-
-
-@router.message(F.text == "👩‍⚕️ Specialists")
-async def specialists_handler(message: Message, state: FSMContext):
+@router.callback_query(F.data == "user_specialists")
+async def specialists_menu(cb: CallbackQuery, state: FSMContext):
     await state.set_state(SpecialistsForm.specialists)
-    await message.answer(
+    await cb.message.edit_text(
         "👩‍⚕️ Available specialists:",
         reply_markup=specialists_kb()
     )
+
 
 
 @router.callback_query(F.data == "psychologist_aliya")
@@ -144,10 +119,7 @@ async def psychologist_aliya_handler(cb: CallbackQuery):
         photo="https://www.webminesllc.com/images/resource/3134716.jpg",
         caption=(
             "👩‍⚕️ Psychologist Aliya\n\n"
-            "You can talk to Aliya about stress, anxiety, or sleep issues.\n"
-            "Feel free to share your feelings safely.\n"
-            "You can also send documents or photos for discussion.\n\n"
-            "Press ⏪ Back to return."
+            "Specializes in stress, anxiety, and sleep issues."
         ),
         reply_markup=get_back()
     )
@@ -158,91 +130,89 @@ async def psychologist_alex_handler(cb: CallbackQuery):
     await cb.answer()
     await cb.message.answer_photo(
         photo="https://img.freepik.com/premium-photo/portrait-of-happy-and-smiling-male-psychologist-portrait-sitting-on-arm-chair-in-psychiatrist-office-or-therapy-room-friendly-and-professional-mental-healthcare-counselor-and-therapist-unveiling_31965-255546.jpg",
-        caption=("""👨‍💼 You can share your documents, images, or audio files with Psychologist Alex.\n"
-        "📝 Please include a brief description so the psychologist can better understand your situation.\n"
-        "Alex will review your materials and provide feedback or advice during the consultation"""),
+        caption=(
+            "👨‍💼 Psychologist Alex\n\n"
+            "You can send files with a short description."
+        ),
         reply_markup=get_back()
-    )
-
-
-
-@router.message(F.text == "📅 Appointments")
-async def appointments_handler(message: Message, state: FSMContext):
-    await state.set_state(AppointmentsForm.appointments)
-    await message.answer(
-        "📅 Your appointments:",
-        reply_markup=appointments_kb()
     )
 
 
 @router.callback_query(F.data == "my_appointments")
 async def my_appointments_handler(cb: CallbackQuery, state: FSMContext):
-    await cb.answer()
-    await cb.message.answer(
-        "📅 Your appointment schedule:\n"
-        "You don’t have any upcoming consultations yet.\n"
-        "Use this section to:\n"
-        "• Book a new session with a psychologist\n"
-        "• Cancel or reschedule existing sessions\n"
-        "• View reminders for upcoming consultations",
+    await cb.message.edit_text(
+        "📅 You don’t have any upcoming appointments yet.",
         reply_markup=get_back()
     )
 
+
 @router.callback_query(F.data == "book_session")
-async def book_session_handler(cb: CallbackQuery, state: FSMContext):
-    await cb.answer()
-    await cb.message.answer(
-        "➕ Book a session:\n"
-        "Choose a psychologist and select a convenient time for your consultation.\n"
-        "You can cancel or reschedule later if needed.",
+async def book_session_handler(cb: CallbackQuery):
+    await cb.message.edit_text(
+        "➕ Book a session:\nChoose a psychologist and time.",
         reply_markup=get_back()
     )
 
 
 @router.callback_query(F.data == "cancel_appointment")
-async def cancel_appointment_handler(cb: CallbackQuery, state: FSMContext):
-    await cb.answer()
-    await cb.message.answer(
-        "❌ Cancel appointment:\n"
-        "Here you can cancel any of your upcoming consultations.\n"
-        "Select the appointment you want to cancel, and it will be removed from your schedule.",
+async def cancel_appointment_handler(cb: CallbackQuery):
+    await cb.message.edit_text(
+        "❌ Cancel appointment:\nSelect the appointment to cancel.",
         reply_markup=get_back()
     )
 
 
-@router.message(F.text == "📔 My notes")
-async def my_notes_handler(message: Message, state: FSMContext):
-    await state.set_state(MyNoticeForm.my_notice)
-    await message.answer(
-        "📔 Personal diary.\nYou can write your notes here.",
-        reply_markup=my_notes_kb()
-    )
-
-
-
+# Добавление заметки
 @router.callback_query(F.data == "add_note")
-async def add_note_handler(cb: CallbackQuery, state: FSMContext):
-    await cb.answer()
-    await cb.message.answer(
-        "📝 Add a new note:\n"
-        "Write your thoughts, feelings, or any observations here.\n"
-        "Your notes are private and will be saved in your personal diary.",
-        reply_markup=get_back()
-    )
+async def add_note_handler(cb: CallbackQuery, user: User):
+    await cb.message.edit_text("📝 Напишите ваш новый текст заметки (только текст, без файлов).",
+                               reply_markup=get_back())
+    # Устанавливаем состояние ожидания текста
+    await MyNoticeForm.my_notice.set()
+
+
+@router.message(MyNoticeForm.my_notice)
+async def save_note_handler(message: Message, state: FSMContext, user: User):
+    async with async_session() as session:
+        manager = NoteManager(session)
+        await manager.create_note(user_id=user.id, text=message.text)
+    await message.answer("✅ Заметка сохранена!", reply_markup=my_notes_kb())
+    await state.clear()
+
+
+# Просмотр заметок
+@router.callback_query(F.data == "view_notes")
+async def view_notes_handler(cb: CallbackQuery, user: User):
+    async with async_session() as session:
+        manager = NoteManager(session)
+        notes = await manager.get_user_notes(user.id)
+
+    if not notes:
+        await cb.message.edit_text("📄 Заметок пока нет.", reply_markup=get_back())
+        return
+
+    text = "📄 Ваши заметки:\n\n"
+    for i, note in enumerate(notes, start=1):
+        text += f"{i}. {note.text}\n"
+        if note.file_url:
+            text += f"📎 {note.file_url}\n"
+        text += f"🕒 {note.created_at.strftime('%Y-%m-%d %H:%M')}\n\n"
+
+    await cb.message.edit_text(text, reply_markup=get_back())
 
 
 @router.callback_query(F.data == "view_notes")
-async def view_notes_handler(cb: CallbackQuery, state: FSMContext):
-    await cb.answer()
-    await cb.message.answer(
-        "📄 Your notes:\n— No notes yet.\n"
-        "Add some notes using the 'Add note' button.",
+async def view_notes_handler(cb: CallbackQuery):
+    await cb.message.edit_text(
+        "📄 No notes yet.",
         reply_markup=get_back()
     )
 
 
-
-
-@router.message(F.text == "⬅️ Back")
-async def back_handler(message: Message):
-    await start_handler(message)
+@router.callback_query(F.data == "user_back")
+async def back_to_menu(cb: CallbackQuery, user: User, state: FSMContext):
+    await state.clear()
+    await cb.message.edit_text(
+        f"Welcome to MentalCare+ {user.full_name} ({user.role}) 💙\nChoose an action:",
+        reply_markup=kb(user.role)
+    )

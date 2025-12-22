@@ -63,6 +63,6 @@ def my_notes_kb():
 
 
 def get_back():
-    kb = ReplyKeyboardBuilder()
-    kb.button(text="⬅️ Back")
+    kb = InlineKeyboardBuilder()
+    kb.button(text="⬅️ Back", callback_data="user_back")
     return kb.as_markup(resize_keyboard=True)
