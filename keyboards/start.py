@@ -11,7 +11,7 @@ def start_kb(role: str):
         kb.button(text="📔 My notes", callback_data="user_notes")
         kb.adjust(2, 3)
 
-    # 👩‍⚕️ PSYCHOLOGIST
+
     elif role == 'psychologist':
         kb.button(text="📨 Requests", callback_data="psy_requests")
         kb.button(text="👥 My clients", callback_data="psy_my_clients")
@@ -19,7 +19,7 @@ def start_kb(role: str):
         kb.button(text="📤 Send material", callback_data="psy_send_material")
         kb.adjust(2, 2)
 
-    # 🛡 ADMIN
+    
     elif role == 'admin':
         kb.button(text="👥 Users", callback_data="admin_users")
         kb.button(text="✅ Verify", callback_data="admin_verify")
