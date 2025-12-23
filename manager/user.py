@@ -12,9 +12,7 @@ class UserManager:
             id=user_id,
             full_name=full_name
         ).returning(User)
-        # execute Запускает
         result = await self.db.execute(stmt)
-        # commit Сахроняет
         await self.db.commit()
         return result.scalar_one_or_none()
 
@@ -22,6 +20,13 @@ class UserManager:
         stmt = select(User).where(User.id == user_id)
         result = await self.db.execute(stmt)
         return result.scalar_one_or_none()
+
+    async def update_role(self, user_id: int, role: str):
+        stmt = update(User).where(User.id == user_id).values(role=role)
+        await self.db.execute(stmt)
+        await self.db.commit()
+        user = await self.get(user_id)
+        return user
 
     async def list(self):
         stmt = select(User)

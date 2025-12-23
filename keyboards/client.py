@@ -49,7 +49,6 @@ def appointments_kb():
     kb = InlineKeyboardBuilder()
     kb.button(text="📌 My appointments", callback_data="my_appointments")
     kb.button(text="➕ Book a session", callback_data="book_session")
-    kb.button(text="❌ Cancel appointment", callback_data="cancel_appointment")
     kb.adjust(2)
     return kb.as_markup()
 

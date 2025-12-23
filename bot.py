@@ -9,6 +9,7 @@ from midlewares.logging import LogingMidleware
 from routers.psychologist import router as psychologist_router
 from routers.client import router as client_router
 from routers.start import router as start_router
+from routers.admin import router as admin_router
 
 
 properties = DefaultBotProperties(
@@ -26,5 +27,6 @@ dp.include_router(start_router)
 
 dp.include_router(psychologist_router)
 dp.include_router(client_router)
+dp.include_router(admin_router)
 
 

@@ -11,7 +11,7 @@ class User(Base):
 
     id = Column(BigInteger, primary_key=True, autoincrement=True)
     full_name = Column(String)
-    role = Column(String)
+    role = Column(String, default="user")
 
     notes = relationship("Note", back_populates="user", cascade="all, delete-orphan")
 

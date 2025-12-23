@@ -3,8 +3,6 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 
 def start_kb(role: str):
     kb = InlineKeyboardBuilder()
-
-    # 👤 USER
     if role == 'user':
         kb.button(text="🧠 Tests", callback_data="user_tests")
         kb.button(text="🆘 Help Me", callback_data="user_help")
@@ -26,7 +24,6 @@ def start_kb(role: str):
         kb.button(text="👥 Users", callback_data="admin_users")
         kb.button(text="✅ Verify", callback_data="admin_verify")
         kb.button(text="🎭 Set role", callback_data="admin_set_role")
-        kb.button(text="🚫 Block", callback_data="admin_block")
         kb.button(text="📜 Logs", callback_data="admin_logs")
         kb.adjust(2, 3)
 
